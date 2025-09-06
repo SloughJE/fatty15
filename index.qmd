@@ -1,0 +1,699 @@
+---
+title: "Fatty15: Better than Everything"
+subtitle: "or nothing"
+author: "John | The John & Calvin Podcast"
+format:
+  revealjs:
+    self-contained: true
+    theme: [night]
+    slide-number: true
+    css: styles.css
+---
+
+
+## Fatty
+
+:::{.smaller2}
+
+C15:0 is emerging as the first essential fatty acid to be discovered in over 90 years.
+
+100+ peer-reviewed studies have been published by independent scientists throughout the world on the benefits of C15:0, including the pure C15:0 ingredient in fatty15.
+
+C15:0 is a pleiotropic nutrient with multiple dose-dependent mechanisms of action.
+
+"#1 fastest-growing supplement company and the 5th fastest-growing Consumer Product Company in America on the Inc. 5000 list"
+
+"Evidence of a nutritional C15:0 deficiency - that’s fixable."
+
+"Cellular Fragility Syndrome" coined by founder. 
+
+Cellular Fragility Syndrome = not having enough C15:0 = fix it with fatty15.
+- with fatty15.
+
+:::
+
+
+---
+
+<img src="assets/table_benefits.png" style="width:60%;display:block;margin:0rem auto 0;">
+
+
+---
+
+### Is Fatty15 Legit 
+
+:::{.smaller}
+
+["Is Fatty15 Legit" Series: Are there clinical trials supporting C15:0 & fatty15 benefits?](https://fatty15.com/blogs/news/is-fatty15-legit-series-are-there-clinical-trials-supporting-c15-0-fatty15-benefits)
+
+If you’re here, chances are that you recently heard about fatty15, a healthy aging supplement containing C15:0. And you may be wanting to know if this supplement is legit.
+
+Are there clinical trials supporting C15:0 & fatty15 benefits?
+
+Here’s a breakdown of the six clinical trials and seven studies to date:
+
+:::
+
+
+---
+
+### Clinical Trial 1
+
+:::{.smaller}
+
+:::{.fragment}
+
+> "Stallings et al. led a clinical trial with healthy humans to determine the oral bioavailability and pharmacokinetics of pure C15:0, the same ingredient provided in fatty15."
+
+
+:::
+
+<br>
+<br>
+
+:::{.fragment}
+
+> "Participants were provided a single oral dose of C15:0 and showed that circulating C15:0 levels reliably increased. For every 100 mg of ingested pure free fatty acid C15:0, C15:0 circulating levels increased on average by 1 ug/ml."
+
+:::
+
+
+:::
+
+:::{.notes}
+ 
+1. Not true. 
+
+"Objective: A Malabsorption Blood Test (MBT) is proposed as an alternative method to the 72-hour stool and dietary collection for assessing the degree of fat malabsoption in peaple with pancreatic insufficiency."
+
+2. Not true. This was not a C15:0 dose-response/bioavailability study. They gave participants one 2.5 gram dose (very high) of C15. Nothing about dose response.
+
+"The MBT consists of a simultaneous oral dose of pentadecanoic acid (PA)… and triheptadecanoic acid (THA)… The aim of this study is to demonstrate the ability of MBT to detect fat malabsorption …”
+
+
+"Materials and methods: The MBT with the PA and THA were delivered in a breakfast test meal (2.5 g PA and either 5g or 8 g THA)"
+
+:::
+
+---
+
+### Clinical Trial 2
+
+:::{.smaller}
+
+:::{.fragment}
+
+> "Mascarenhas et al. then led a clinical trial...to extensively model the oral bioavailability and pharmacokinetics of pure C15:0"
+
+:::
+
+<br>
+
+:::{.fragment}
+
+> "...repeated findings from the Stallings et al. study. Namely, that for every 100 mg of ingested pure free fatty acid C15:0, circulating C15:0 levels increased on average by 1 ug/ml."
+
+:::
+
+<br>
+
+:::{.fragment}
+
+> "The authors concluded that pure free fatty acid C15:0 is, on average, 100% bioavailable."
+
+:::
+
+:::
+
+:::{.notes}
+
+1. Not true. Or at least it is a huge leap from what the study actually did.
+
+Study quote: "The aim of this study was to construct a population model to describe HA and PA pharmacokinetics (PK) after MBT administration." It's about validating the MBT.
+
+2. This is not true. They never modeled this. This is not in the study.
+
+And note:
+
+"Participants consumed the MBT 8-ounce test meal… **2.5 or 5.0** g of PA" (PA is C15:0). 2 dose amounts! GRAMS! 
+
+3. 100% bioavailable? What? That is only possible with injection. It is literally ridiculous. 100% bioavailable ON AVERAGE? 
+
+Study quote: "The PA bioavailability estimate of 1.07 (95%CI, 0.827, 1.42) for subjects with CF was similar to healthy subjects. The estimate for CF subjects administered enzymes was 0.88 (0.72, 1.09). Although 12.3% lower than in healthy subjects, the 95%CI contains the null value of 1."
+
+IS that where they got 100%? 
+This is ‘similar’ bioavailability in 2 groups. It says nothing about absolute bioavailability.
+
+
+Both studies not what they say they are.
+
+
+:::
+
+
+---
+
+### Clinical Trial 4
+
+:::{.smaller_table}
+
+88 Chinese females with NAFLD were randomly assigned to 1 of the 3
+groups for 12 wk: diet with C15:0 supplementation (n = 31), diet without C15:0 supplementation (n = 28), or control (habitual diet and no C15:0 supplementation, n = 29). Treatment diet was Asian-adapted Mediterranean diet.
+
+:::
+
+:::{.smaller}
+
+:::{.fragment}
+
+> "While all three groups had lowered liver fat and body weight loss, the C15:0 supplemented group trended to having the greatest loss of liver fat and body fat. It is important to note, however, that these shared improvements among all three groups were not statistically significantly between the groups."
+
+:::
+
+<br>
+
+:::{.fragment}
+
+
+> "The authors conclude that C15:0 supplementation had early evidence of providing clinically relevant benefits related to lower LDL cholesterol and an improved gut microbiome."
+
+:::
+
+:::
+
+
+
+:::{.notes}
+
+1. they were statistically greater for both diet arms vs control, just not different between diet + C15:0 and diet – C15:0. ie seems that the diet change is the key.
+
+"trended", well there are other metrics reported that the **non-C15:0** arm "trended" better! And they are very small 'trends'.
+
+2. Unclear by how much more LDL was reduced, only coefficients on log scale reported, probably ~ 5 mg/dL, ie not much.
+
+Conclusion: adding C15:0 (300mg daily) to a Asian-adapted Mediterranean diet doesn't appear to help. 
+
+No evidence that C15:0 HELPs the LIVER
+
+300 mg daily. Not fatty15 supplement. (but other supplement presumably, mix in soy milk)
+
+
+:::
+
+---
+
+### Clinical Trial 5
+
+:::{.smaller2}
+
+Not a separate clinical trial. Additional data analysis of Trial 4.
+
+:::{.fragment}
+
+> "This post-hoc analysis showed that, while all three groups had lower body weight and improved mood, the C15:0 supplemented group had the most significant improvement in mood.
+
+:::
+<br>
+
+:::{.fragment}
+
+
+> "The authors conclude that C15:0 supplementation may have a positive effect on improving mood."
+
+:::
+
+:::{.fragment}
+
+Study quotes: 
+
+:::
+:::{.incremental}
+
+- "The present study cannot conclude that the group receiving C+15:0 together with the MD had effects in decreasing symptoms."
+- "These findings suggest that both dietary interventions had comparable effects on anxiety and depression within the study population."
+
+
+:::
+:::
+
+:::{.notes}
+
+1. NOT a separate clinical trial. 
+
+The original study was NOT set up to test any mental health / anxiety issues. 
+
+Not sure why they mention the body weight thing. 
+
+Not robust for: "Diet+C15 is better than Diet–C15 or Control on anxiety/depression." There is no between-arm inferential test to back that. Even the manuscript states it cannot conclude a C15:0 effect on symptoms.
+
+Paired t-tests were employed to assess significant changes over time
+Only within-group paired t-tests, No between-group modeling of change.
+
+Do the claims live up to the modeling?
+Not for incremental treatment effects. Paired t-tests address within-arm change, which cannot establish that Diet+C15 outperformed Diet–C15 or Control.
+
+To claim superiority (e.g., “C15:0 improved anxiety beyond diet”), you must test between-arm differences in change (ANCOVA on post-score with baseline covariate, or a mixed model with Group×Time interaction). They didn’t.
+
+Symptoms declined over 12 weeks in this sample across all groups.
+
+:::
+
+---
+
+### Clinical Trial 6
+
+:::{.smaller}
+
+:::{.fragment}
+
+Not on Fatty15 or C15:0 supplementation. It's on high or moderate dairy fat diets. Much less relevant. 
+
+:::
+:::
+
+:::{.smaller2}
+
+:::{.fragment}
+
+> "Clinical Trial 6: Arghavani et al. **led a cross-over clinical trial** that included healthy adults to evaluate the potential effects of dairy fat diets, as well as individual fatty acid components within dairy fat, on blood pressure and vascular stiffness". "This clinical trial showed the following: " 
+
+:::
+
+:::{.fragment}
+
+The 2025 paper by Arghavani et al. is a **secondary analysis** of data from an already‐conducted randomized crossover trial.
+
+:::
+:::{.fragment}
+
+There is nothing in the original RCT about C15.
+
+
+::::
+:::
+
+:::{.smaller_table}
+
+:::{.fragment}
+
+<br>
+
+Original RCT - "Objective: The aim of this clinical trial was to evaluate the impact of high dairy product intake (HD) (≥4 servings/d) for 6 wk, compared with an adequate dairy product intake (AD) (≤2 servings/d), on glycemic and insulinemic parameters, insulin sensitivity, insulin secretion, and β-cell function in hyperinsulinemic adults."
+
+
+:::
+
+
+:::
+
+:::{.notes}
+
+tons of tests too. Lots of ML models. 
+
+Regardless that it's not on C15 or fatty15 supplementation, seems a highly exploratory study. 
+
+"This study aimed to investigate the effects of high and adequate dairy intake (>4, 2–3
+serving/day, respectively) on circulating fatty acids (FAs) and their associations with blood pressure (BP)"
+
+tentative and hypothesis-generating rather than confirmatory
+
+Participants weren’t randomized to C15:0; they were randomized to high vs adequate dairy. C15:0 was a measured biomarker, and the C15:0–cfPWV link comes from adjusted partial correlations, not an intervention with C15:0.
+
+:::
+
+---
+
+### Clinical Trial 7
+
+:::{.smaller_table}
+:::{.fragment}
+
+> "Kaneko et al. led a randomized, placebo-controlled clinical trial that included older women to evaluate the potential effects of an oral high-C15 algal oil on skin elasticity, collagen density, and skin moisture. This clinical trial showed that daily oral intake of high-C15 algal oil for 12 weeks improved skin elasticity, collagen density, and skin moisture."    
+
+:::
+:::
+
+<br>
+
+:::{.smaller2}
+
+:::{.fragment}
+
+> "The authors conclude that oral intake of high C15-containing supplements provides skin health benefits."
+
+:::
+
+<br>
+
+:::{.incremental}
+
+
+- Orlan oil, containing C:15 but also many other fatty acids like DHA, DPA, EPA.
+
+- Dose of C15 per day: ~**9mg**
+
+:::
+:::
+
+:::{.notes}
+
+really fragile statistics. Lots of simple t-tests on change scores, tons of tests, no multiplicity correction. 
+
+Wasn’t just C15:0, was an oil containing C:15 but also many other fatty acids like DHA, DPA..etc. 
+
+ONLY ~9 MG C15. so it’s probably the other stuff.
+
+:::
+
+---
+
+## Summary so far
+
+Of the 6 "clinical trials supporting C15:0 or fatty15 benefits":
+
+1. No clinical trial on actual fatty15.
+2. Literal making up of what study did.
+3. C15 doesn't appear to help NAFLD (even at higher dose that fatty15 recommends)
+4. Almost 0 evidence it does anything. 
+5. A secondary analysis on an RCT is not an RCT. 
+
+---
+
+
+### Clinical Trial 3
+
+The only RCT in humans on actual on Fatty15.
+
+:::{.smaller2}
+
+
+[Pentadecanoic Acid Supplementation in Young Adults with Overweight and Obesity: A Randomized Controlled Trial](https://www.sciencedirect.com/science/article/pii/S0022316624004115?via%3Dihub)
+
+"Robinson et al. led a randomized, double-blinded and placebo-controlled clinical trial with young adults (ages 18 to 24 years old) at risk of metabolic syndrome and who were *purposely avoiding whole fat dairy products*"
+
+- The paper never says participants were purposefully avoiding whole-fat dairy. Exclusion criteria was high habitual C15:0 intake (>250 mg/day) by FFQ, nothing about "purposefully avoiding whole fat dairy products".
+
+
+RCT,  200 mg C15:0 or placebo daily, 20 c:15, 10, placebo., overweight / obese young adults
+
+
+
+
+C15:0 levels increased among participants who strictly adhered to the protocol.
+
+Among participants who adhered to the protocol, their C15:0 levels increased at the same amounts demonstrated by Mascarenhas et al. and Stallings et al. Namely, 200 mg of C15:0 resulted in raised circulating C15:0 levels of 2.3 ug/ml. 
+
+This group with raised C15:0 levels also had significantly improved liver function (lower ALT and AST), as well as raised hemoglobin, demonstrating improved red blood cell function.
+
+
+:::
+
+---
+
+<img src="assets/TreatmentGroupLevels.png" style="width:40%;display:block;margin:0rem auto 0;">
+
+---
+
+### Threshold vs Sub-threshold
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+
+::: {.smaller_table}
+
+::: {.fragment}
+
+Threshold level: "informed by epidemiological and preclinical literature"
+
+:::
+::: {.incremental}
+
+- below 5 μg/mL -> "sub-threshold" 
+- above 5 μg/mL -> "threshold"
+
+:::
+::: {.fragment}
+
+for end of treatment levels!
+
+:::
+
+
+::: {.incremental}
+
+- 11 participants of 30 already had 5 μg/mL at start
+- 7 happened to be in C:15 group (at start)
+- Of 20 subjects in C:15 group (treatment), 10 ended up in 'above threshold' group.
+
+:::
+
+::: {.fragment}
+
+In sub-threshold: some higher, some lower at 12 weeks
+
+Adherence:
+
+:::
+::: {.incremental}
+
+- 95% 'threshold' group
+- 84.3% 'sub-threshold' group
+
+
+
+:::
+:::
+
+:::
+
+
+
+::: {.column width="45%"}
+
+::: {.smaller_table}
+
+Change in plasma C15:0 levels from baseline to 12 wk
+
+:::
+
+
+![](assets/TreatmentGroupLevels.png){width=90%}
+
+
+
+:::
+
+
+
+:::
+
+---
+
+### Subgroup Charts
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+![](assets/ALT_groups.png){width=93%}
+
+:::
+
+
+::: {.column width="50%"}
+
+
+
+![](assets/AST_groups.png){width=100%}
+
+
+:::
+
+:::
+
+---
+
+### Subgroup Charts
+
+![](assets/SubgroupsCharts.png){width=100%}
+
+:::{.notes}
+
+ALT: regression to the mean in the threshold group?
+outliers driving things (somewhat dealt with in statistical model later)
+
+AST: same?
+
+Are we just instead picking people who happened to have higher liver enzymes at the start?
+ie people in the 'sub-threshold', except one, generally have better liver enzymes than Threshold group, AND placebo.
+
+Remember, BASELINE matters!
+
+we're down to 10/10/9 people in groups. Getting squirrely.
+:::
+
+---
+
+### Kruskal–Wallis
+
+The analysis that led to:
+
+Study Abstract: "Half of the participants in the treatment group had a posttreatment C15:0 level >5 μg/mL. In these individuals, there were significantly greater decreases in alanine aminotransferase (−29 U/L, P = 0.001) and aspartate aminotransferase (−6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL."
+
+Turned into this statement by the fatty15 folks:
+"Among participants who adhered to the protocol, their C15:0 levels increased...This group with raised C15:0 levels also had significantly improved liver function (lower ALT and AST), as well as raised hemoglobin, demonstrating improved red blood cell function."
+
+OVERSTATEMENTS!
+
+:::{.incremental}
+
+- subgroup (threshold) reframed as "particpants who adhered to the protocol"
+- "significantly improved liver function" and "demonstrating improved red blood cell function" assert clinical efficacy and mechanism.
+- Those published P values (ALT 0.001; AST 0.014; Hgb 0.010) come from the three-group Kruskal–Wallis test
+
+:::
+
+:::{.fragment}
+
+Three group Kruskal–Wallis Test:
+
+:::
+:::{.incremental}
+- non-parametric (no distribution assumed)
+- tells you at least 2 **distributions** (not just medians) differs from among the 3
+- not which pairs differ
+- Medians can mislead—shape matters. KW is based on ranks of all individual values, and it is sensitive to spread and tail behavior
+- "as compared with participants that did not reach a posttreatment level >5 μg/mL" implies threshold vs (subthreshold + placebo)". This was not tested.
+- Small n → unstable medians
+- KW test does not adjust for baseline differences
+- sorry, that's how statistics works.
+
+:::
+
+
+in other words, look at the Table 3, AST, that AST p-value of 0.014, could be just due to the sub threshold group vs threshold, and you could read this as C:15 will improve AST in half who take it.
+to be clear, for AST, we don’t know if the significant p-value is due to the difference between the Threshold vs Placebo group, or the Threshold vs Subthreshold group. 
+If the significance is due to Threshold vs Subthreshold, that’d be weird, no? maybe baseline imbalance, just outlier, change?
+
+
+---
+
+
+### Fatty15: 3x better than omega-3
+
+:::{.smaller2}
+
+["A big peer-reviewed scientific study dropped comparing fatty15 to omega-3."](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study)
+
+"Fatty15 had 36+ cellular benefits across 83% of cell types tested, which was 3x better than omega-3."
+
+"Safer - Fatty15 is safe for 12 out of 12 cell types. Omega-3 was toxic to 4 out of 12 cell types."
+
+"Simply put, fatty15 is better, broader and safer than the purest, highest performing omega-3 (EPA) in repairing and restoring cellular (aka your) health."
+
+:::{.incremental}
+
+- 100% in vitro (cell-based) study
+- "Fatty15 repairs 2.5x more cell types compared to omega-3."
+  - what? this math isn't in the study. Unclear where 2.5x comes from
+- "At 50 μM, EPA was cytotoxic to the following **four of the 12** primary human cell systems:"
+- "C15:0 was an active compound with 36 annotated and clinically relevant activities in **10 of the 12** systems in the BioMAP Diversity PLUS Panel"
+- Fatty15 repaired **10/12** cell-based systems; omega-3 **4/12**; 10 / 4 ? therefore 2.5x ?
+- I'm not sure. Those are not comparable metrics. That’s mixing different denominators. I hope they didn't do that.
+
+"which was 3x better than omega-3."
+Are they rounding 2.5x to 3x??
+
+:::
+
+---
+
+
+### Skeptics
+
+**What the skeptics say**
+
+In videos, skeptics go over two clinical trials (Robinson et al. and Chooi et al.) and incorrectly conclude that these trials were not in relevant populations and did not demonstrate efficacy. Strangely, the skeptics made these statements while showing the papers’ abstracts, where the authors themselves concluded that C15:0 demonstrated promising results. The skeptics do not mention any of the other five studies and four clinical trials provided above, in part because two are recent publications.”
+
+
+Maybe they don't mention them because the first 2 are not about C15:0 or fatty15, 5th literally states nothing to see here, 6th is about high vs adequate dairy diets (that happen to contain C15), 7th is weak study on skin, which probably isn't due to C15.
+
+
+---
+
+### HOW MUCH?
+
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+
+::: {.smaller_table}
+
+::: {.fragment}
+
+but if you still want to try fatty15:
+
+:::
+::: {.incremental}
+
+- ’30 day’ means 30 pills, means 100mg per pill. 
+- Study protocol of 200mg or 300mg, (based on 90 day subscription),
+- $2.67 or $4.00 per day, or $80 or $120 per month
+
+
+:::
+::: {.fragment}
+
+What are you paying for? Marketing!
+
+:::
+
+
+::: {.incremental}
+
+“HSA/FSA eligible”
+
+:::
+
+::: {.fragment}
+
+In sub-threshold: some higher, some lower at 12 weeks
+
+Adherence:
+
+:::
+::: {.incremental}
+
+- 95% 'threshold' group
+- 84.3% 'sub-threshold' group
+
+
+
+:::
+:::
+
+:::
+
+
+
+::: {.column width="45%"}
+
+::: {.smaller_table}
+
+Fatty15: Another Subscription!
+
+
+:::
+
+
+![](assets/90DayStarterKit.png){width=90%}
+
+:::
+
+:::
