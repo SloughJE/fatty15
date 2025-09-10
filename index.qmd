@@ -1,6 +1,6 @@
 ---
-title: "Fatty15: Better than Everything"
-subtitle: "or nothing"
+title: "Fatty15"
+subtitle: "Masters of Spin"
 author: "John | The John & Calvin Podcast"
 format:
   revealjs:
@@ -90,6 +90,13 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 "Bottom line"
 - they self-affirmed fatty15 is safe. And didn't even submit to FDA. Overstating what it means and how it was done.
 
+
+["With a recent self-GRAS (Generally Recognized as Safe) affirmation"](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics)
+
+["FA15™ has been approved as a food ingredient that can be used daily, up to 245 mg per day."](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)
+
+
+
 :::
 
 
@@ -133,9 +140,12 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 - overhyped?
 - all based on threshold. 
 - same dosing concentrations for both, problem? who knows.
+- no indication that these doses/concentrations have any relevance to what cells would see in humans by taking EPA 
 - both are absorbed differently in humans. 
 - No clinical endpoints. Who knows if will play out.
 - will any of this be borne out in humans? 
+
+
 
 Is there any human RCT evidence anyway on fatty15???
 
@@ -328,7 +338,53 @@ Did NOT find evidence that C15:0 HELPs the LIVER
 
 300 mg daily. Not fatty15 supplement. (but other supplement presumably, mix in soy milk)
 
+Metrics with no significant differences with addition of C15:
 
+
+
+:::
+
+---
+
+### Clinical Trial 4
+
+:::{.smaller2}
+
+**List of Metrics *unchanged* with addition of C15**:
+
+:::
+
+:::{.smaller_table}
+
+:::{.fragment}
+
+Body weight, BMI, Total fat mass, Fat-free mass, Waist circumference,       
+Visceral adipose tissue (VAT) volume, Subcutaneous abdominal adipose tissue (SAT) volume, Superficial subcutaneous abdominal adipose tissue (SAT), Deep SAT, 
+
+Liver fat (MRI-PDFF), Controlled Attenuation Parameter (CAP) score, Intramyocellular lipid (soleus IMCL/water), Pancreatic fat PDFF (head–body), Pancreatic fat PDFF (tail),      
+
+Systolic blood pressure, Diastolic blood pressure, Fasting glucose, Fasting insulin, HOMA-IR, HbA1c, Total cholesterol, HDL-cholesterol, Triglycerides, 
+
+Gamma-glutamyl transferase (GGT), Alanine aminotransferase (ALT), Aspartate aminotransferase (AST), Alkaline phosphatase (ALP), C-reactive protein (CRP), Resting metabolic rate (RMR), Physical activity (steps/day), 
+
+Sleep duration,         
+STAI—State anxiety score, STAI—Trait anxiety score, BDI-II depression score, 
+
+Gut microbiome: Bacteroides ovatus abundance, Fusobacterium mortiferum abundance
+
+:::
+
+:::{.incremental}
+
+- Total Metrics measured: 37
+
+- Metrics unchanged with C15: 36
+
+- Metrics changed with C15: 1
+
+- \**it did on average increase C15 levels*
+
+:::
 :::
 
 ---
@@ -754,6 +810,47 @@ in other words, look at the Table 3, AST, that AST p-value of 0.014, could be ju
 to be clear, for AST, we don’t know if the significant p-value is due to the difference between the Threshold vs Placebo group, or the Threshold vs Subthreshold group. 
 If the significance is due to Threshold vs Subthreshold, that’d be weird, no? maybe baseline imbalance, just outlier, change?
 
+:::
+
+---
+
+
+### Clinical Trial 7
+
+:::{.smaller2}
+
+**List of Metrics *unchanged* with addition of C15**:
+
+:::
+
+:::{.smaller2}
+
+<br> 
+
+:::{.fragment}
+
+Body weight, BMI, Waist circumference, Hip circumference, 
+
+Systolic blood pressure, Diastolic blood pressure, 
+
+Fasting glucose, Fasting insulin, 
+
+Total cholesterol, HDL cholesterol, LDL cholesterol, Triglycerides, 
+
+C-reactive protein (CRP), Alanine aminotransferase (ALT), Aspartate aminotransferase (AST), Hemoglobin
+
+:::
+:::{.incremental}
+
+- Total Metrics measured: 17
+
+- Metrics unchanged with fatty15: 16
+
+- Metrics changed with fatty15: 1
+
+- \**it did on average increase C15 levels*
+
+:::
 :::
 
 ---
