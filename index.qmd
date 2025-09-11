@@ -23,7 +23,7 @@ C15:0 is a pleiotropic nutrient with multiple dose-dependent mechanisms of actio
 
 "#1 fastest-growing supplement company and the 5th fastest-growing Consumer Product Company in America on the Inc. 5000 list"
 
-"Evidence of a nutritional C15:0 deficiency - that’s fixable."
+"Evidence of a nutritional C15:0 deficiency - that's fixable."
 
 "Cellular Fragility Syndrome" coined by founder. 
 
@@ -56,33 +56,45 @@ Cellular Fragility Syndrome = not having enough C15:0 = fix it with fatty15.
 
 :::{.fragment}
 
-There is no official "GRAS certification" from the FDA. 
-The term "certified" implies a form of approval that doesn’t exist under this framework.
-
+No official "GRAS certification" from the FDA. "Certified" implies FDA approval.
 
 :::
 
 :::{.incremental}
 
 - Two Ways to Achieve [GRAS Status](https://en.wikipedia.org/wiki/Generally_recognized_as_safe)
-  - GRAS Notification program: Submit to FDA detailing ingredient. FDA evaluates and issues a "no questions letter" or concerns. 
+  - GRAS Notification program: Submit to FDA detailing ingredient. FDA evaluates. [GRAS Database](https://www.hfpappexternal.fda.gov/scripts/fdcc/index.cfm?cat=FoodIngredientsPackaging&type=advanced&search=¤¤C15%20C15%3A0%20fa15%20pentadecanoic%20Pentadecylic%20fatty15¤)
   - [Self-affirmation](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics): company itself assesses safety of an ingredient and declares it GRAS, without submitting anything to the FDA
-- [GRAS Database](https://www.hfpappexternal.fda.gov/scripts/fdcc/index.cfm?cat=FoodIngredientsPackaging&type=advanced&search=¤¤C15%20C15%3A0%20fa15%20pentadecanoic%20Pentadecylic%20fatty15¤)
+
 
 :::
 
-:::{.fragment}
 
-["Pentadecanoic acid (C15:0, PA) is one of the most common odd-chain saturated fatty acids (OCS-FAs). However, its safety and nutritional value are yet to be verified."](https://pubmed.ncbi.nlm.nih.gov/39434548/) - 2024 Nov
+::: {.r-stack}
+
+::: {.fragment .current-visible}
+
+
+- ["With a recent *self-GRAS* (Generally Recognized as Safe) affirmation"](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics) FA15 can now be used in food and beverage products.
+
+- ["FA15™ has been approved as a food ingredient that can be used daily, up to 245 mg per day."](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)
 
 :::
+::: {.fragment .current-visible}
 
+**No Public record of evidence used to self-affirm GRAS status.**
+
+:::
+:::
 
 :::
 
 :::{.notes}
 
+- GRAS Notification program: Submit to FDA detailing ingredient. FDA evaluates and issues a "no questions letter" or concerns. 
+
 GRAS determinations focus on general safety for the broader population under intended use—not for specific or sensitive subgroups like pregnant or nursing individuals.
+
 
 "fatty15 is safe for pregnant women and nursing moms." This is not what GRAS says. 
 GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
@@ -90,11 +102,9 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 "Bottom line"
 - they self-affirmed fatty15 is safe. And didn't even submit to FDA. Overstating what it means and how it was done.
 
-
-["With a recent self-GRAS (Generally Recognized as Safe) affirmation"](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics)
+["With a recent *self-GRAS* (Generally Recognized as Safe) affirmation"](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics)
 
 ["FA15™ has been approved as a food ingredient that can be used daily, up to 245 mg per day."](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)
-
 
 
 :::
@@ -138,7 +148,7 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 - undermining decades of omega3 research in one study
 - biased?
 - overhyped?
-- all based on threshold. 
+- all based on thresholds chosen. 
 - same dosing concentrations for both, problem? who knows.
 - no indication that these doses/concentrations have any relevance to what cells would see in humans by taking EPA 
 - both are absorbed differently in humans. 
@@ -146,11 +156,55 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 - will any of this be borne out in humans? 
 
 
+:::
+
+---
+
+### Fatty15 instead of omega-3 / EPA
+
+:::{.smaller_large_table}
+
+_Note: This is a scientific/consumer-protection opinion, not legal advice or an allegation of unlawful conduct._
+
+:::{.incremental}
+
+- **Unsupported substitution claim.** There are **no independent, human or animal randomized trials** showing C15:0 is superior to EPA/DHA on clinical outcomes; the “3×” claim comes from a **single company-affiliated in-vitro screen** rather than outcome trials.  
+  Sources: [fatty15 “3×” marketing](https://fatty15.com/?srsltid=AfmBOorC0ZEsnTrOClIF9nP91wtQIywqZrbP8Tq_QNDTJ6vEwhD7n55O), [PLOS ONE in-vitro paper + competing-interest statement](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+
+- **Explicit replacement messaging.** The company’s own FAQ says you “**may opt to use fatty15 in lieu of omega-3 fish oil supplements**.”  
+  Source: [fatty15 FAQ](https://fatty15.com/pages/faqs)
+
+- **Conflicts with medical consensus.** Major authorities advise **obtaining EPA/DHA** because ALA conversion is limited and fish intake (or Rx EPA) lowers risk in specific populations; telling consumers to replace omega-3s **runs counter to that guidance**.  
+  Sources: [NIH ODS Omega-3 fact sheet](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [AHA fish/EPA-DHA guidance](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/fish-and-omega-3-fatty-acids)
+
+- **Potential for consumer harm.** Substitution could **dissuade** people—especially higher-risk patients—from nutrient and therapies with outcome data (e.g., **icosapent ethyl** reduces CV events when added to statins).  
+  Sources: [NEJM REDUCE-IT trial](https://www.nejm.org/doi/abs/10.1056/NEJMoa1812792), [FDA label for icosapent ethyl](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/202057s035lbl.pdf)
+
+- **Likely inadequate substantiation for a comparative health claim.** Under **FTC** standards, comparative efficacy claims require **“competent and reliable scientific evidence”**—typically well-controlled human studies. An in-vitro screen doesn’t meet that bar.  
+  Source: [FTC Health Products Compliance Guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)
+
+- **Conflicts of interest / non-independence.** The in-vitro “3×” paper is authored by **company-affiliated inventors** with licensed patents; it is **not independent** and has not been replicated in clinical trials.  
+  Source: [PLOS ONE competing-interest statement](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+
+- **Over-extrapolation from cell assays.** **Cell-panel biomarker differences ≠ clinical benefits** in people; dose/exposure relevance and translation are unproven for the claimed endpoints.  
+  Source: [PLOS ONE methods/limitations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+
+- **In my view: borderline unethical.** Promoting **replacement** of EPA/DHA with C15:0 **without independent, head-to-head human evidence** and **against consensus nutrition guidance** risks **misleading consumers** about proven omega-3 benefits. 
+
+
+:::{.smaller2}
+- The analysis above reflects **my opinions** based on the **publicly cited sources** and the **state of evidence as of September 11, 2025**. It is offered for **informational and public-interest commentary** only. It is **not** medical or legal advice, and it is **not** a statement of fact about any company’s intent, ethics, or lawfulness. I **do not** allege wrongdoing and **welcome corrections** or additional independent evidence. I have **no financial relationship** with the products or companies discussed. All trademarks are the property of their respective owners.
+
+:::
+
+:::
+
+:::{.fragment}
 
 Is there any human RCT evidence anyway on fatty15???
 
 :::
-
+:::
 
 
 # Fatty15 and RCTs
@@ -361,16 +415,32 @@ Metrics with no significant differences with addition of C15:
 Body weight, BMI, Total fat mass, Fat-free mass, Waist circumference,       
 Visceral adipose tissue (VAT) volume, Subcutaneous abdominal adipose tissue (SAT) volume, Superficial subcutaneous abdominal adipose tissue (SAT), Deep SAT, 
 
+:::
+:::{.fragment}
+
 Liver fat (MRI-PDFF), Controlled Attenuation Parameter (CAP) score, Intramyocellular lipid (soleus IMCL/water), Pancreatic fat PDFF (head–body), Pancreatic fat PDFF (tail),      
+
+:::
+:::{.fragment}
 
 Systolic blood pressure, Diastolic blood pressure, Fasting glucose, Fasting insulin, HOMA-IR, HbA1c, Total cholesterol, HDL-cholesterol, Triglycerides, 
 
+:::
+:::{.fragment}
+
 Gamma-glutamyl transferase (GGT), Alanine aminotransferase (ALT), Aspartate aminotransferase (AST), Alkaline phosphatase (ALP), C-reactive protein (CRP), Resting metabolic rate (RMR), Physical activity (steps/day), 
+
+:::
+:::{.fragment}
 
 Sleep duration,         
 STAI—State anxiety score, STAI—Trait anxiety score, BDI-II depression score, 
 
+:::
+:::{.fragment}
+
 Gut microbiome: Bacteroides ovatus abundance, Fusobacterium mortiferum abundance
+
 
 :::
 
@@ -831,11 +901,23 @@ If the significance is due to Threshold vs Subthreshold, that’d be weird, no? 
 
 Body weight, BMI, Waist circumference, Hip circumference, 
 
+:::
+:::{.fragment}
+
 Systolic blood pressure, Diastolic blood pressure, 
+
+:::
+:::{.fragment}
 
 Fasting glucose, Fasting insulin, 
 
+:::
+:::{.fragment}
+
 Total cholesterol, HDL cholesterol, LDL cholesterol, Triglycerides, 
+
+:::
+:::{.fragment}
 
 C-reactive protein (CRP), Alanine aminotransferase (ALT), Aspartate aminotransferase (AST), Hemoglobin
 
@@ -896,7 +978,7 @@ Maybe they don't mention them because the first 2 are not about C15:0 or fatty15
 
 ---
 
-### HOW MUCH?
+### HOW MUCH? 
 
 
 ::: {.columns}
@@ -913,8 +995,16 @@ but if you still want to try fatty15:
 :::
 ::: {.incremental}
 
-- ’30 day’ means 30 pills, means 100mg per pill. 
-- Study protocol of 200mg or 300mg, (based on 90 day subscription),
+- '30 day' means 30 pills, means 100mg per pill. 
+- Study protocol of 200mg or 300mg
+
+:::
+
+::: {.fragment}
+
+To recreate the study doses:
+(based on 90 day subscription)
+
 - $2.67 or $4.00 per day, or $80 or $120 per month
 
 
@@ -928,25 +1018,10 @@ What are you paying for? Marketing!
 
 ::: {.incremental}
 
-“HSA/FSA eligible”
+- "HSA/FSA eligible"
 
 :::
 
-::: {.fragment}
-
-In sub-threshold: some higher, some lower at 12 weeks
-
-Adherence:
-
-:::
-::: {.incremental}
-
-- 95% 'threshold' group
-- 84.3% 'sub-threshold' group
-
-
-
-:::
 :::
 
 :::
@@ -968,3 +1043,85 @@ Fatty15: Another Subscription!
 :::
 
 :::
+
+
+---
+
+### So Many Claims:
+
+:::{.smaller_large_table}
+
+- **"Essential fatty acid" / widespread deficiency**  
+  **Not supported:** C15:0 is *not* recognized as essential by authorities.
+  Sources: [NIH ODS (EFAs = LA & ALA)](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [Company blog](https://fatty15.com/blogs/news/cellular-fragility-syndrome-a-deep-dive-on-nutritional-c15-0-deficiencies-and-how-to-fix-them)     
+  The 3 authors of the [study claijmming this](https://www.nature.com/articles/s41598-020-64960-y) are: Founder of [fatty15](https://fatty15.com/pages/stephanie-venn-watson?srsltid=AfmBOorIZisPOWXcPjqreyqn_8XFgUwoe7vfdvlfgTorI0r6n9u9X4lN), [financed by Epitracker \(Venn-Watson owned company\)](https://www.nature.com/articles/s41598-020-64960-y#ethics), and a
+  [scientific advisor to fatty15](https://fatty15.com/pages/edward-dennis?srsltid=AfmBOopekoztT_SggHC4j4XG-2a0T9bCZDddvcTJakn3GSfo-azxFvX8) who holds equity in the company. 
+  
+- **“Cellular Fragility Syndrome”**  
+  **Not supported:** Not a recognized medical diagnosis (absent from [ICD-11](https://icd.who.int/), not a [MeSH](https://meshb.nlm.nih.gov/) descriptor). The term is introduced by company-affiliated authors in a single hypothesis/review and amplified in marketing/press; there is **no independent clinical validation or diagnostic criteria**. See the hypothesis paper ([Venn-Watson 2024](https://pubmed.ncbi.nlm.nih.gov/39057678/)), company blog ([fatty15](https://fatty15.com/blogs/news/cellular-fragility-syndrome-a-deep-dive-on-nutritional-c15-0-deficiencies-and-how-to-fix-them)), and third-party critique ([CSPI](https://www.cspi.org/article/fatty15-worth-hype)).
+
+- **Metabolic health (PPAR-α/δ, AMPK, mitochondria)**  
+  **Not supported (human RCTs):** 12-wk placebo-controlled trials raised blood C15:0 but **no between-group improvements** in clinical endpoints except small LDL decrease (1/37), and very very weak "subgroup" analysis for lower AST/ALT.   
+  Sources: [J Nutr RCT (2024)](https://pubmed.ncbi.nlm.nih.gov/39069269/)
+
+- **Heart health (LDL; cardiometabolic risk/events)**  
+  **Neutral/insufficient:** No trials show fewer CVD events; observational meta-analysis shows **no association with all-cause mortality** and non-significant pooled associations for some CVD subtypes for 15:0.  
+  Sources: [PLOS Med meta-analysis (2021)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
+
+- **Liver health (enzymes; fatty liver)**  
+  **Not supported (human):** 12 week human RCT trial showed no difference in liver Fat, or liver enzymes (except GGT, (but not in subgroup, lower ALT/AST in subgroup)) Unclear results (placebo increased GGT). 
+  Sources: [J Nutr RCT](https://pubmed.ncbi.nlm.nih.gov/39069269/), [AJCN TANGO RCT (2024)](https://pubmed.ncbi.nlm.nih.gov/38035997/)
+
+- **Red blood cells (membranes; hemoglobin)**  
+  **Neutral (human ITT):** Hemoglobin increase seen only in **NON-RANDOM subgroup**, not vs placebo in intention-to-treat.  
+  Source: [J Nutr RCT](https://pubmed.ncbi.nlm.nih.gov/39069269/)
+
+- **Immune health / inflammation (cytokines, CRP)**  
+  **Not supported (human):** No human RCT showing reductions; both human RCTs showed no difference in CRP in C15 group.  
+
+- **Cognitive & mental health (dopamine/PPAR; mood/stress)**  
+  **Insufficient (human):** No human trials located; claims are marketing. RCT they claim supports this (not RCT, secondary anlaysis of RCT), authors state "The present study cannot conclude that the group receiving C+15:0 together with the MD had effects in decreasing symptoms."
+  Example claim: [Company blog](https://fatty15.com/blogs/news/neuroprotective-supplements-a-complete-guide)
+
+
+:::
+
+---
+
+### So Many Claims:
+
+
+:::{.smaller_large_table}
+
+
+- **Sleep quality**  
+  **Insufficient (human):** No C15:0 sleep RCTs; “deeper sleep” appears in marketing/surveys. RCT found do difference in sleep duration.
+  Example claim: [Product page](https://fatty15.com/products/your-essential-fatty-acid)
+
+- **Hunger/satiety (PPAR-α)**  
+  **Insufficient (human):** No RCTs measuring appetite/energy intake/GLP-1/ghrelin.  
+  Example claim: [Company post](https://fatty15.com/blogs/news/healthy-body-healthy-mind-how-our-bodies-use-c15-0-to-make-the-second-ever-discovered-full-acting-endocannabinoid)
+
+- **Joint comfort**  
+  **Insufficient (human):** No human RCTs on joint pain/function.  
+  Example claim: [Marketing copy](https://fatty15.com/blogs/news/fatty15-near-term-benefits-and-long-term-gains)
+
+- **Gut microbiome**  
+  **Limited/neutral (human):** In NAFLD (TABGO) trial, *Bifidobacterium adolescentis* increase reported with C15:0, but **no broader microbiome “health” or clinical GI benefits** established.  
+  Source: [AJCN TANGO RCT](https://pubmed.ncbi.nlm.nih.gov/38035997/)
+
+- **Anti-aging / “slows and reverses aging”**  
+  **Not supported (human outcomes):** No trials on aging endpoints or epigenetic clocks; mortality association for 15:0 is **null** in meta-analysis.  
+  Sources: [PLOS Med meta-analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763), [Homepage claim](https://fatty15.com/), [“Reversing cellular aging” blog](https://fatty15.com/blogs/news/reversing-cellular-aging-with-fatty15)
+
+- **"Reduces mTOR" (longevity mechanism)**  
+  **Insufficient (human):** Based on mechanistic/cell work, not human outcomes.  
+  Sources: [Company mTOR blog](https://fatty15.com/blogs/news/what-it-mtor-link-to-longevity), [Review asserting AMPK↑/mTOR↓](https://pmc.ncbi.nlm.nih.gov/articles/PMC10649853/) is written by author and of questionable relevance.
+
+- **"3× more cellular benefits than EPA (omega-3)" / "take fatty15 instead of omega-3"**  
+  **Not supported (human); potentially misleading—arguably *borderline unethical*.** The "3×" figure comes incorrect math from a single **in-vitro** screen by company-affiliated authors; there are NO **human RCTs** or animal RCTs showing clinical superiority over EPA. Substitution messaging (implying you should take fatty15 **instead of** omega-3) conflicts with established recommendations that EPA/DHA remain important nutrients. Comparative health claims promoting substitution away from EPA/DHA **conflicts with consensus guidance** and, without competent and reliable human evidence, should be backed by **competent and reliable scientific evidence**, typically well-controlled human trials—which is not present here, a concern under [FTC health-claims standards](https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf).      
+  Sources: [Company claim](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study), [FTC Health Products Compliance Guidance](https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf), [NIH ODS: Omega-3](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [AHA: Fish & omega-3](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/fish-and-omega-3-fatty-acids)  
+  _Note: This is a scientific/consumer-protection opinion, not legal advice or an allegation of unlawful conduct._
+
+:::
+
