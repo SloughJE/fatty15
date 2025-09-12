@@ -1,6 +1,6 @@
 ---
 title: "Fatty15"
-subtitle: "Masters of Spin"
+subtitle: "Masters of Marketing Disguised as Science"
 author: "John | The John & Calvin Podcast"
 format:
   revealjs:
@@ -11,24 +11,30 @@ format:
 ---
 
 
-## Fatty15
+## Fatty15: Better than Everything
 
 :::{.smaller2}
 
-C15:0 is emerging as the first essential fatty acid to be discovered in over 90 years.
+"C15:0 is emerging as the first essential fatty acid to be discovered in over 90 years."
 
-100+ peer-reviewed studies have been published by independent scientists throughout the world on the benefits of C15:0, including the pure C15:0 ingredient in fatty15.
+"100+ peer-reviewed studies have been published by independent scientists throughout the world on the benefits of C15:0, including the pure C15:0 ingredient in fatty15."
 
-C15:0 is a pleiotropic nutrient with multiple dose-dependent mechanisms of action.
+"C15:0 is a pleiotropic nutrient with multiple dose-dependent mechanisms of action."
 
-"#1 fastest-growing supplement company and the 5th fastest-growing Consumer Product Company in America on the Inc. 5000 list"
+"Cellular Fragility Syndrome"
 
 "Evidence of a nutritional C15:0 deficiency - that's fixable."
 
-"Cellular Fragility Syndrome" coined by founder. 
+"Clinical Trial Results: Fatty15 Can Treat Nutritional C15:0 Deficiencies"
 
-Cellular Fragility Syndrome = not having enough C15:0 = fix it with fatty15.
-- with fatty15.
+"C15:0 helps support and balance mood"
+
+"C15:0 helps support healthy cells by targeting key hallmarks of aging"
+
+"The Longevity Nutrient"
+
+"fatty15 has emerged as a leading longevity-extending geroprotector"
+
 
 :::
 
@@ -38,10 +44,13 @@ Cellular Fragility Syndrome = not having enough C15:0 = fix it with fatty15.
 <img src="assets/table_benefits.png" style="width:60%;display:block;margin:0rem auto 0;">
 
 
+
+
+# GRAS
+
 ---
 
-
-### GRAS
+### GRAS (Generally Recognized as Safe)
 
 :::{.smaller_table}
 
@@ -49,8 +58,8 @@ Cellular Fragility Syndrome = not having enough C15:0 = fix it with fatty15.
 
 :::{.fragment}
 
-> - Our ingredient is officially GRAS (generally regarded as safe) certified, which means fatty15 is safe for pregnant women and nursing moms.  
-- In our commitment to make fatty15/FA15/C15:0 accessible to all, we have gone above and beyond to enforce the safety of fatty15 for those of all ages and life stages by receiving GRAS (Generally Recognized As Safe) status by the FDA.
+> - Our ingredient is officially *GRAS (generally regarded as safe) certified*, which means fatty15 is safe for pregnant women and nursing moms.  
+- In our commitment to make fatty15/FA15/C15:0 accessible to all, we have gone above and beyond to enforce the safety of fatty15 for those of all ages and life stages by *receiving GRAS (Generally Recognized As Safe) status by the FDA*.
 
 :::
 
@@ -77,12 +86,12 @@ No official "GRAS certification" from the FDA. "Certified" implies FDA approval.
 
 - ["With a recent *self-GRAS* (Generally Recognized as Safe) affirmation"](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics) FA15 can now be used in food and beverage products.
 
-- ["FA15™ has been approved as a food ingredient that can be used daily, up to 245 mg per day."](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)
+- ["FA15™ has been approved as a food ingredient that can be used daily, up to **245 mg** per day."](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)
 
 :::
 ::: {.fragment .current-visible}
 
-**No Public record of evidence used to self-affirm GRAS status.**
+Evidence for Fatty15's GRAS claim has **not been reviewed by the FDA or shared with the public.**
 
 :::
 :::
@@ -90,6 +99,8 @@ No official "GRAS certification" from the FDA. "Certified" implies FDA approval.
 :::
 
 :::{.notes}
+
+Generally recognized as safe (GRAS) is a United States Food and Drug Administration (FDA) designation that a chemical or substance added to food is considered safe by experts under the conditions of its intended use.
 
 - GRAS Notification program: Submit to FDA detailing ingredient. FDA evaluates and issues a "no questions letter" or concerns. 
 
@@ -109,35 +120,45 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 
 :::
 
+# Fatty15 > omega-3
 
 ---
 
+
+![](assets/adverts/No_omega3.jpg){width=100%  fig-align="center"}
+
+
+
+---
 
 ### Fatty15: 3x better than omega-3
 
 :::{.smaller_table}
 
-[Deep Dive: Fatty15 vs. Omega-3](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study)
+[Deep Dive: Fatty15 vs. Omega-3](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study); [The Science](https://fatty15.com/pages/the-science)
+
+:::{.fragment}
 
 > "Simply put, fatty15 is better, broader and safer than the purest, highest performing omega-3 (EPA) in repairing and restoring cellular (aka your) health."
 <br>
 <br>
-"Fatty15 repairs **2.5x** more cell types compared to omega-3."
+"Fatty15 repairs **2.5x** more cell types compared to **omega-3**."
 <br>
 <br>
-"Fatty15 had 36+ cellular benefits across 83% of cell types tested, which was **3x** better than omega-3."
+"Fatty15 had 36+ cellular benefits across 83% of cell types tested, which was **3x** better than **omega-3**."
 
+:::
 :::{.incremental}
 
-- [100% in vitro (cell-based) study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778), done by founder, unclear if relevant in humans.
-- **3x better?**
-  - 12 vs 36? "36 annotated activities" vs "12 activities shared"? 
-  - but that's shared, EPA had more. (21, but not reported, must go to supplement)
-- **2.5x more?** 
-  - "At 50 μM, EPA was cytotoxic to the following **four of the 12** primary human cell systems:"
-  - "C15:0...36 activities in **10 of the 12** systems in the BioMAP Diversity PLUS Panel"
-  - Fatty15 repaired **10/12** cell-based systems; omega-3 **4/12**; 10 / 4 ? therefore **2.5x** ?
-  - Not comparable metrics. That’s mixing different denominators.
+- [100% in vitro (cell-based) study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778), by founder, unclear if relevant in humans.
+- **3× better than omega-3?**
+  - C15:0 showed 36 annotated, dose-dependent activities (ie at multiple doses)
+  - 12 activities were shared between C15:0 and EPA at **17 μM**
+  - mixing a multi-dose C15:0 count with a single-dose overlap with EPA?  
+- **Repairs 2.5× more cell types?** 
+  - C15:0...broad anti-inflammatory and anti-proliferative activities...across **10** systems ("repairs")
+  - EPA at 50 μM was *cytotoxic* to **4** of the 12 cell systems
+  - 10 / 4 ? therefore **2.5x** ?
 
 :::
 
@@ -155,55 +176,63 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 - No clinical endpoints. Who knows if will play out.
 - will any of this be borne out in humans? 
 
+All their claims seem to be based on this one study. 
+
+OMEGA-3 in marketing, but study was on EPA only.
+
+"Given the growing and repeated evidence of C15:0 as a beneficial odd-chain saturated fatty acid, there is a need to reevaluate current nutritional guidelines that continue to recommend lowered intake of all dietary saturated fats."
+
+
+Rounding?: Use the 35 “differentiating” readouts vs 12 shared at 17 μM → 35/12 ≈ 2.9, round to “3×.” But “differentiating” just means the responses weren’t the same (one changed, the other didn’t, or opposite directions)—not “better,” and some diffs could favor EPA.
+
 
 :::
 
 ---
 
-### Fatty15 instead of omega-3 / EPA
+### Take Fatty15 instead of omega-3 / EPA
 
 :::{.smaller_large_table}
+:::{.fragment}
 
-_Note: This is a scientific/consumer-protection opinion, not legal advice or an allegation of unlawful conduct._
+_Note: This is a scientific/consumer-protection opinion, not medical advice or an allegation of unlawful conduct._
 
+:::
 :::{.incremental}
 
-- **Unsupported substitution claim.** There are **no independent, human or animal randomized trials** showing C15:0 is superior to EPA/DHA on clinical outcomes; the “3×” claim comes from a **single company-affiliated in-vitro screen** rather than outcome trials.  
-  Sources: [fatty15 “3×” marketing](https://fatty15.com/?srsltid=AfmBOorC0ZEsnTrOClIF9nP91wtQIywqZrbP8Tq_QNDTJ6vEwhD7n55O), [PLOS ONE in-vitro paper + competing-interest statement](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+- **Unsupported substitution claim.** There are **no human or animal randomized trials** showing C15:0 is superior to EPA/DHA on clinical outcomes; the "3×" claim comes from unreproducible math from a **single company-affiliated in-vitro screen** rather than outcome trials.  
+  [fatty15 “3×” marketing](https://fatty15.com/?srsltid=AfmBOorC0ZEsnTrOClIF9nP91wtQIywqZrbP8Tq_QNDTJ6vEwhD7n55O), [PLOS ONE in-vitro paper + competing-interest statement](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
 
-- **Explicit replacement messaging.** The company’s own FAQ says you “**may opt to use fatty15 in lieu of omega-3 fish oil supplements**.”  
-  Source: [fatty15 FAQ](https://fatty15.com/pages/faqs)
+- **Contrary to major guideline recommendations.** Major authorities advise **obtaining EPA/DHA** because ALA conversion is limited and fish intake (or Rx EPA) lowers risk in specific populations; telling consumers to replace omega-3s **runs counter to that guidance**.  
+  [NIH ODS Omega-3 fact sheet](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [AHA fish/EPA-DHA guidance](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/fish-and-omega-3-fatty-acids)
 
-- **Conflicts with medical consensus.** Major authorities advise **obtaining EPA/DHA** because ALA conversion is limited and fish intake (or Rx EPA) lowers risk in specific populations; telling consumers to replace omega-3s **runs counter to that guidance**.  
-  Sources: [NIH ODS Omega-3 fact sheet](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [AHA fish/EPA-DHA guidance](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/fish-and-omega-3-fatty-acids)
+- **Potential for consumer harm.** Substitution could **dissuade** people, especially higher-risk patients, from nutrients and therapies with outcome data (e.g., **icosapent ethyl** reduces CV events when added to statins).
+  [NEJM REDUCE-IT trial](https://www.nejm.org/doi/abs/10.1056/NEJMoa1812792), [FDA label icosapent ethyl](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/202057s035lbl.pdf)
 
-- **Potential for consumer harm.** Substitution could **dissuade** people—especially higher-risk patients—from nutrient and therapies with outcome data (e.g., **icosapent ethyl** reduces CV events when added to statins).  
-  Sources: [NEJM REDUCE-IT trial](https://www.nejm.org/doi/abs/10.1056/NEJMoa1812792), [FDA label for icosapent ethyl](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/202057s035lbl.pdf)
+- **Essential nutrient substitution risk.** Omega-3 fatty acids (ALA, with EPA/DHA in practice) are **essential nutrients** with unique roles in neurodevelopment, vision, cardiometabolic health, and mental health. Promoting C15:0 as a **replacement** implies it can substitute for these essential functions, which is unsupported and potentially harmful, especially for developing children and pregnant women.  
+  [NIH ODS Omega-3](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [Omega-3s and mental health review (NIH/PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7468918/#:~:text=Abstract,3s%20and%20mental%20health%20conditions.)
 
-- **Likely inadequate substantiation for a comparative health claim.** Under **FTC** standards, comparative efficacy claims require **“competent and reliable scientific evidence”**—typically well-controlled human studies. An in-vitro screen doesn’t meet that bar.  
-  Source: [FTC Health Products Compliance Guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)
+- **Inadequate substantiation for a comparative health claim.** Under **FTC** standards, comparative efficacy claims require **“competent and reliable scientific evidence”**, typically well-controlled human studies. An in-vitro screen doesn’t meet that bar.  
+  [FTC Health Products Compliance Guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)
 
-- **Conflicts of interest / non-independence.** The in-vitro “3×” paper is authored by **company-affiliated inventors** with licensed patents; it is **not independent** and has not been replicated in clinical trials.  
-  Source: [PLOS ONE competing-interest statement](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+- **Conflicts of interest / non-independence.** The in-vitro “3×” paper is authored by **company-affiliated inventors** with licensed patents; it is **not independent** and has not been replicated in clinical trials. [PLOS ONE competing-interest statement](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
 
-- **Over-extrapolation from cell assays.** **Cell-panel biomarker differences ≠ clinical benefits** in people; dose/exposure relevance and translation are unproven for the claimed endpoints.  
-  Source: [PLOS ONE methods/limitations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+- **Over-extrapolation from cell assays.** **Cell-panel biomarker differences ≠ clinical benefits** in people; dose/exposure relevance and translation are unproven for the claimed endpoints. [PLOS ONE methods/limitations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+
+:::
+:::{.incremental}
 
 - **In my view: borderline unethical.** Promoting **replacement** of EPA/DHA with C15:0 **without independent, head-to-head human evidence** and **against consensus nutrition guidance** risks **misleading consumers** about proven omega-3 benefits. 
 
 
+
 :::{.smaller2}
-- The analysis above reflects **my opinions** based on the **publicly cited sources** and the **state of evidence as of September 11, 2025**. It is offered for **informational and public-interest commentary** only. It is **not** medical or legal advice, and it is **not** a statement of fact about any company’s intent, ethics, or lawfulness. I **do not** allege wrongdoing and **welcome corrections** or additional independent evidence. I have **no financial relationship** with the products or companies discussed. All trademarks are the property of their respective owners.
+- The analysis above reflects **my opinions** based on the **publicly cited sources** and the **state of evidence as of September 13, 2025**. It is offered for **informational and public-interest commentary** only. It is **not** medical or legal advice, and it is **not** a statement of fact about any company’s intent, ethics, or lawfulness. I **do not** allege wrongdoing and **welcome corrections** or additional independent evidence. I have **no financial relationship** with the products or companies discussed. All trademarks are the property of their respective owners.
 
 :::
 
 :::
 
-:::{.fragment}
-
-Is there any human RCT evidence anyway on fatty15???
-
-:::
 :::
 
 
@@ -350,7 +379,7 @@ Both studies not what they say they are.
 :::{.fragment}
 
 [88 Chinese females](https://www.sciencedirect.com/science/article/pii/S0002916523662859?via%3Dihub) with **NAFLD** were randomly assigned to 1 of the 3
-groups for 12 wk: diet with C15:0 supplementation (n = 31), diet without C15:0 supplementation (n = 28), or control (habitual diet and no C15:0 supplementation, n = 29). Treatment diet was Asian-adapted Mediterranean diet.
+groups for 12 wk: diet with 300mg daily C15:0 supplementation (n = 31), diet without C15:0 supplementation (n = 28), or control (habitual diet and no C15:0 supplementation, n = 29). Treatment diet was Asian-adapted Mediterranean diet.
 
 :::
 :::
@@ -404,7 +433,7 @@ Metrics with no significant differences with addition of C15:
 
 :::{.smaller2}
 
-**List of Metrics *unchanged* with addition of C15**:
+**List of Metrics *unchanged* with addition of 300mg daily C15**:
 
 :::
 
@@ -433,22 +462,20 @@ Gamma-glutamyl transferase (GGT), Alanine aminotransferase (ALT), Aspartate amin
 :::
 :::{.fragment}
 
-Sleep duration,         
-STAI—State anxiety score, STAI—Trait anxiety score, BDI-II depression score, 
+Sleep duration, STAI—State anxiety score, STAI—Trait anxiety score, BDI-II depression score, 
 
 :::
 :::{.fragment}
 
-Gut microbiome: Bacteroides ovatus abundance, Fusobacterium mortiferum abundance
-
+*Note: ignoring microbiome results*
 
 :::
 
 :::{.incremental}
 
-- Total Metrics measured: 37
+- Total Metrics measured: 35
 
-- Metrics unchanged with C15: 36
+- Metrics unchanged with C15: 34
 
 - Metrics changed with C15: 1
 
@@ -636,18 +663,20 @@ Of the 6 "clinical trials supporting C15:0 or fatty15 benefits":
 
 :::{.incremental}
 
-1. No clinical trial on actual fatty15.
-2. Literal making up of what the study did. 
-3. A secondary analysis on an RCT is not an RCT.
-4. C15 doesn't appear to help NAFLD (even at higher dose that fatty15 recommends)
-5. Almost ZERO evidence it does anything. 
+- Trials 1 and 2 are validating a fat malabsorption test.
+- Trial 4: C15 doesn't appear to help NAFLD (even at higher dose than fatty15 recommends).
+- Trial 5 is a secondary analysis of Trial 4; authors "cannot conclude" added benefit of C15:0.
+- Trial 6 is not on C15 supplementation and is not a trial.
+- Trial 7 C15 daily dose contains only 9mg; oil blend containing DHA, DPA, EPA. 
+- All 6 are not on actual fatty15.
+- Mis/Overstatements about what the cited study actually did/found. 
+- Robust evidence it does anything beneficial? **Not supported**. 
 
 
 :::
 :::
 
 ---
-
 
 ### Clinical Trial 3
 
@@ -660,20 +689,73 @@ The only RCT in humans on actual on Fatty15.
 :::
 :::
 
+:::{.smaller_table}
+
+::: {.incremental}
+
+- Study design: double-blind, randomized, placebo-controlled, 2-arm trial.
+- Population: 30 young adults (ages 18–25) with overweight or obesity 
+- Intervention: 200 mg of C15:0 (fatty15) daily vs. placebo for 12 weeks.
+- Randomization: 20 participants assigned to C15:0 supplementation and 10 to placebo
+- Primary outcome: change in plasma C15:0 concentration.
+- Secondary outcomes: safety, tolerability, and exploratory measures (e.g., liver enzymes, hemoglobin, glucose, cholesterol).
+
+:::
+
+:::{.fragment}
+
+Conclusions
+
+:::
+::: {.incremental}
+- C15:0 supplementation significantly increased plasma C15:0 by 1.88 μg/mL compared to placebo. 
+- Treatment was safe and well tolerated.
+- Main secondary analysis: GGT increased by ~10 U/L in placebo but decreased by ~1 U/L in treatment, giving a significant between-group difference of ~11 U/L (interpret cautiously)
+- In subgroup analysis of the secondary outcomes:
+  - "significantly greater decreases in alanine aminotransferase (-29 U/L, P = 0.001) and aspartate aminotransferase (-6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL"
+
+:::
+
+
+:::
+
+:::{.notes}
+
+2:1 assignment was generated statistically for the trial design, with the primary aim being feasibility and adequate power in this pilot.
+
+:::
+
+---
+
+### Clinical Trial 3
+
 :::{.smaller2}
 
 :::{.fragment}
 
-> "[Robinson et al.](https://www.sciencedirect.com/science/article/pii/S0022316624004115?via%3Dihub) led a randomized, double-blinded and placebo-controlled clinical trial with young adults (ages 18 to 24 years old) at risk of metabolic syndrome and who were *purposely avoiding whole fat dairy products*"
+Subgroup analysis of the secondary outcomes:
 
 :::
 
-<br>
+:::{.incremental}
+- Half (10) of the treatment group did not achieve C15 blood levels of > 5 μg/mL
+
+- Authors state: "Given the inter-individual variance in treatment response, a nuanced appraisal relative to a proposed threshold of 5 μg/mL was pursued."
+
+
+- based on end-of-treatment plasma C15:0 levels
+- "informed by epidemiological and preclinical literature"
+- after the fact, non-randomized, exploratory subgroup analysis
+
+:::
+:::
+
+:::{.smaller2}
 
 :::{.fragment}
 
 
-> Among participants who adhered to the protocol, their **C15:0 levels increased at the same amounts demonstrated by Mascarenhas et al. and Stallings et al**.<br>Namely, 200 mg of C15:0 resulted in raised circulating C15:0 levels of 2.3 ug/ml."
+> "Among participants who adhered to the protocol, their **C15:0 levels increased at the same amounts demonstrated by Mascarenhas et al. and Stallings et al**.<br>Namely, 200 mg of C15:0 resulted in raised circulating C15:0 levels of 2.3 ug/ml." - fatty15 
 
 :::
 
@@ -684,14 +766,56 @@ The only RCT in humans on actual on Fatty15.
 
 RCT,  200 mg C15:0 or placebo daily, 20 c:15, 10, placebo., overweight / obese young adults
 
-1. The paper never says participants were purposefully avoiding whole-fat dairy. Exclusion criteria was high habitual C15:0 intake (>250 mg/day) by FFQ, nothing about "purposefully avoiding whole fat dairy products".
-
-2. comparing raising C15 levels to those 2 studies is apples to oranges. 
+1. comparing raising C15 levels to those 2 studies is apples to oranges. 
 
 - Different timescale: hours (PK spike) vs. months (steady-state).
 - Different metric: peak concentration? (Cmax) vs. baseline shift.
 - Different physiology: acute absorption vs. long-term balance of absorption, incorporation into membranes, metabolism, and turnover.
 - Different doses: grams vs. milligrams.
+
+Mis-citation of Mascarenhas/Stallings: those papers are MBT pharmacokinetic tests using grams of pentadecanoic acid as a tracer (e.g., 2.5 g PA), not a 12-week 200 mg/day supplementation. They don’t justify “200 mg → +2.3 µg/mL.”
+
+Unreported “+2.3 µg/mL” figure: the RCT reports a +1.88 µg/mL vs placebo mean increase after 12 weeks. It does not report a 2.3 µg/mL rise “among adherers.”
+
+
+:::
+
+
+---
+
+<div style="text-align: center;">
+
+:::{.smaller2}
+
+Change in plasma C15:0 levels
+
+:::
+
+</div>
+
+
+![](assets/robinson_threshold_charts.png){width=70% fig-align="center"}
+
+
+
+:::{.smaller_table}
+
+:::{.incremental}
+
+- 7 participants in treatment group were already above 5 μg/mL at baseline
+- nobody in treatment group went from above to below threshold
+- 4 in Placebo group were from above to below threshold
+- Adherence per group:
+  - **95%** Threshold group (171 total pills)
+  - **84.3%** Sub-threshold group (152 total pills)
+- 10 in treatment, despite taking on average 84.3% (152) of pills did not cross threshold
+
+:::
+
+:::
+
+
+:::{.notes}
 
 
 :::
@@ -701,9 +825,7 @@ RCT,  200 mg C15:0 or placebo daily, 20 c:15, 10, placebo., overweight / obese y
 
 ### C15:0 Plasma Level Increase
 
-::: {.columns}
 
-::: {.column width="55%"}
 
 
 ::: {.smaller_table}
@@ -716,77 +838,49 @@ RCT,  200 mg C15:0 or placebo daily, 20 c:15, 10, placebo., overweight / obese y
 
 :::
 
-::: {.incremental}
-
-- below 5 μg/mL -> "sub-threshold" 
-- above 5 μg/mL -> "threshold"
-
-:::
-
 ::: {.fragment}
 
-Only half reached the threshold
+> ["In fact, Dr. Schwimmer’s study showed that the more total C15:0 supplementation a person took over the 12 week time period, the higher their C15:0 levels."](https://fatty15.com/blogs/news/clinical-trial-supports-ability-for-fatty15-to-treat-emerging-nutritional-c15-0-deficiency-syndrome)
 
-:::
-
-::: {.incremental}
-
-- 10 / 20 in the C15:0 arm ended ≥ 5 µg/mL
-- 11 / 30 participants were already ≥ 5 µg/mL at baseline (7/20 in C15:0 arm)
-
-:::
-
-::: {.fragment}
-
-Adherence per group:
 
 :::
 ::: {.incremental}
+- Trial can't establish a general rule that "the more total supplementation taken, the higher the levels."
+- This was not tested in the study. There was no dose-response analysis. 
 
-- 95% Threshold group (171 total pills)
-- 84.3% Sub-threshold group (152 total pills)
-
-:::
-:::
-
-:::
-
-
-
-::: {.column width="45%"}
-
-::: {.smaller_table}
-
-::: {.fragment}
-
-Change in plasma C15:0 levels from baseline to 12 wk
-
-:::
 :::
 
 ::: {.fragment}
 
-![](assets/TreatmentGroupLevels.png){width=100%}
+
+> ["Poor adherence to the daily fatty15 regimen explained about 80% of the difference between those who got up and over the **nutritionally sufficient threshold**."](https://fatty15.com/blogs/news/clinical-trial-supports-ability-for-fatty15-to-treat-emerging-nutritional-c15-0-deficiency-syndrome)
 
 :::
 
-::: {.smaller_table}
+::: {.r-stack}
 
-::: {.fragment}
+::: {.fragment .current-visible}
 
-**Half** of those on fatty15, taking on average 84.3% of pills (152 total) did not raise C15:0 levels above threshold.
+- Study never states adherence explained 80% of difference. Unclear where this value comes from. 
+- "nutritionally sufficient threshold" language was not used in the study is not an externally validated standard.
+
+:::
+
+
+::: {.fragment .current-visible}
+
+- Study states: the adherence–response link was "not strong enough to explain the response heterogeneity alone"
+
+- "This study was not designed or powered to expound further on this observation, and future studies will need to address these discrepancies."
+
 
 :::
 :::
-:::
-
-
 
 :::
 
 :::{.notes}
 
-Threshold level: "informed by epidemiological and preclinical literature"
 
 :::
 
@@ -795,11 +889,28 @@ Threshold level: "informed by epidemiological and preclinical literature"
 ### Liver Function in Threshold Group
 
 
-:::{.smaller}
+:::{.smaller2}
 
 :::{.fragment}
 
-> "Among participants who adhered to the protocol, their C15:0 levels increased...This group with raised C15:0 levels also had significantly improved liver function (lower ALT and AST)"
+> "Among participants who adhered to the protocol, their C15:0 levels increased...This group with raised C15:0 levels also had significantly improved liver function (lower ALT and AST), as well as raised hemoglobin, demonstrating improved red blood cell function."
+
+:::
+
+<br>
+
+:::{.incremental}
+
+- Reframing the threshold group as "participants who adhered to the protocol".        
+  Implies causality the study didn’t test.
+- Study explicitly reports these as "preliminary associations" and "potentially relevant improvements...warranting further study," not proven treatment effects.
+
+
+:::
+
+:::{.fragment}
+
+- These results are part of a non-randomized post-hoc responder exploratory subgroup analysis and are associative only and do not establish causality or clinical efficacy.
 
 :::
 
@@ -809,7 +920,11 @@ Threshold level: "informed by epidemiological and preclinical literature"
 
 ### Subgroup Charts
 
+:::{.fragment}
+
 ![](assets/SubgroupsCharts.png){width=100%}
+
+:::
 
 :::{.notes}
 
@@ -827,24 +942,44 @@ we're down to 10/10/9 people in groups. Getting squirrely.
 
 :::
 
+
 ---
 
+### Three Group Kruskal–Wallis Test
 
-### Kruskal–Wallis
 
 ::: {.smaller_table}
+
+:::{.fragment}
 
 Study Abstract: 
 
 > "Half of the participants in the treatment group had a posttreatment C15:0 level >5 μg/mL. In these individuals, there were significantly greater decreases in alanine aminotransferase (−29 U/L, P = 0.001) and aspartate aminotransferase (−6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL."
 
+:::
 :::{.incremental}
-
-- subgroup (threshold) reframed as "particpants who adhered to the protocol"
-- "significantly improved liver function" and "demonstrating improved red blood cell function" assert clinical efficacy
-- P values (ALT 0.001; AST 0.014; Hgb 0.010) come from the three-group Kruskal–Wallis test
+- P-values come from the three-group Kruskal–Wallis (KW) test
+- Three-group KW test only answers: "Are **any** of the three groups different?", **not which** groups differ.
+- *"as compared with participants that did not reach >5 μg/mL"*: reads like a **specific two-group comparison** (≥5 μg/mL **vs** <5 μg/mL). The KW test alone does **not** test that claim.
+- You cannot just get a significant KW p-value, **look at medians** and declare "significantly greater decreases/increases in this group." 
+- Would need **follow-up two-group test** for the exact comparison of interest.
+- KW is based on ranks and can reflect differences in spread or tails, not just medians. 
+- The test is NOT adjusted for baseline levels of the groups.
 
 :::
+
+:::
+
+::: {.notes}
+
+BASELINE is not taken into account in the KW test. it's on change scores! 
+
+Why KW? small N, common test for that without assuming specific distribution, also deals with outliers.
+
+in other words, look at the Table 3, AST, that AST p-value of 0.014, could be just due to the sub threshold group vs threshold, and you could read this as C:15 will improve AST in half who take it.
+to be clear, for AST, we don’t know if the significant p-value is due to the difference between the Threshold vs Placebo group, or the Threshold vs Subthreshold group. 
+If the significance is due to Threshold vs Subthreshold, that’d be weird, no? maybe baseline imbalance, just outlier, change?
+
 :::
 
 
@@ -854,38 +989,8 @@ Study Abstract:
 
 ---
 
-### Three Group Kruskal–Wallis Test
 
-::: {.smaller_table}
-
-"significantly greater decreases in alanine aminotransferase (−29 U/L, P = 0.001) and aspartate aminotransferase (−6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL."
-
-:::{.incremental}
-- non-parametric (no distribution assumed)
-- tells you at least 2 **distributions** (not just medians) differs from among the 3
-- not which pairs differ
-- Medians can mislead—shape matters. KW is based on ranks of all individual values, and it is sensitive to spread and tail behavior
-- "as compared with participants that did not reach a posttreatment level >5 μg/mL" implies threshold vs (subthreshold + placebo)". This was not tested.
-- Small n → unstable medians
-- KW test does not adjust for baseline differences
-- sorry, that's how statistics works.
-
-:::
-
-:::
-
-::: {.notes}
-
-in other words, look at the Table 3, AST, that AST p-value of 0.014, could be just due to the sub threshold group vs threshold, and you could read this as C:15 will improve AST in half who take it.
-to be clear, for AST, we don’t know if the significant p-value is due to the difference between the Threshold vs Placebo group, or the Threshold vs Subthreshold group. 
-If the significance is due to Threshold vs Subthreshold, that’d be weird, no? maybe baseline imbalance, just outlier, change?
-
-:::
-
----
-
-
-### Clinical Trial 7
+### Clinical Trial 3
 
 :::{.smaller2}
 
@@ -933,6 +1038,82 @@ C-reactive protein (CRP), Alanine aminotransferase (ALT), Aspartate aminotransfe
 - \**it did on average increase C15 levels*
 
 :::
+:::
+
+::: {.smaller_large_table}
+::: {.fragment}
+
+Note: in comparison (pre-threshold), GGT was found to be significantly lower in treatment group. In 'threshold analysis' it was NOT.
+Similarly, AST, ALT, Hemoglobin were (at least one group) was different in threshold group analysis, but not in main analysis
+
+:::
+:::
+
+---
+
+### Clinical Trial 3: Conflicts of Interest
+
+::: {.smaller_table}
+
+:::{.fragment}
+
+[**Seraphina Theraputics** was founded by Stephanie Venn-Watson](https://fatty15.com/pages/stephanie-venn-watson). They make fatty15.
+
+:::
+:::{.fragment}
+
+> ["Among next-step studies is an ongoing double-blinded, placebo-controlled clinical trial with fatty15, which is being **independently conducted** by Dr. Jeffrey Schwimmer at the University of California, San Diego."](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study) - quote from fatty15 website
+
+:::
+:::{.fragment}
+
+Clinical Trial 3 (published 2024)      
+**Conflict of interest**: "JBS (Jeffrey Schwimmer) reports grants to UCSD from Intercept and Genfit. All other authors report no conflicts of interest."       
+**Funding**:
+"The project was also supported by **Seraphina Therapeutics** including the provision of C15:0 supplements and matching placebo."
+
+:::
+:::{.fragment}
+
+[2021 Study from J Clin Invest](https://pmc.ncbi.nlm.nih.gov/articles/PMC8670836/) Conflict of interest:      
+JBS has received research support from Galmed, Intercept, Genfit, and **Seraphina**.
+
+:::
+:::{.fragment}
+
+[2022 UC San Diego News Article](https://today.ucsd.edu/story/new-genetic-associations-in-pediatric-nafld-affect-both-risk-and-severity):
+"Disclosure: Jeffrey B. Schwimmer receives grant support from Intercept, Genfit and **Seraphina**."
+
+:::
+:::{.fragment}
+
+[2024 Study from Hepatology](https://www.cghjournal.org/article/S1542-3565%2823%2901041-8/pdf) Conflicts of interest:     
+"Jeffrey Schwimmer’s institution received research grants from Genfit, Intercept, and **Seraphina**"
+
+:::
+
+:::{.fragment}
+
+[2025 Study from J Clin Invest](https://www.cghjournal.org/article/S1542-3565%2823%2901041-8/pdf) Conflict of interest:     
+JBS reports grant support to the University of California, San Diego, from **Seraphina Therapeutics** and Thiogenesis Therapeutics.
+:::
+
+:::
+
+---
+
+<br>
+<br>
+
+From the 2 actual RCTs on C15:
+
+<br>
+<br>
+
+:::{.fragment}
+
+**No replication of minor positive findings**
+
 :::
 
 ---
@@ -995,18 +1176,24 @@ but if you still want to try fatty15:
 :::
 ::: {.incremental}
 
-- '30 day' means 30 pills, means 100mg per pill. 
+- '30 day' means 30 pills, and 100mg per pill. 
 - Study protocol of 200mg or 300mg
 
 :::
 
 ::: {.fragment}
 
-To recreate the study doses:
+To recreate the study doses:      
 (based on 90 day subscription)
 
 - $2.67 or $4.00 per day, or $80 or $120 per month
 
+
+:::
+
+::: {.fragment}
+
+- note: *dose > 245mg per day is no longer GRAS*
 
 :::
 ::: {.fragment}
@@ -1069,15 +1256,15 @@ Fatty15: Another Subscription!
   Sources: [PLOS Med meta-analysis (2021)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
 
 - **Liver health (enzymes; fatty liver)**  
-  **Not supported (human):** 12 week human RCT trial showed no difference in liver Fat, or liver enzymes (except GGT, (but not in subgroup, lower ALT/AST in subgroup)) Unclear results (placebo increased GGT). 
+  **Not supported (human):** 12 week human RCT trial showed no difference in liver Fat, or liver enzymes. Other lower GGT, (but not in subgroup, lower ALT/AST in subgroup). Unclear/non-replicated results.
   Sources: [J Nutr RCT](https://pubmed.ncbi.nlm.nih.gov/39069269/), [AJCN TANGO RCT (2024)](https://pubmed.ncbi.nlm.nih.gov/38035997/)
 
 - **Red blood cells (membranes; hemoglobin)**  
-  **Neutral (human ITT):** Hemoglobin increase seen only in **NON-RANDOM subgroup**, not vs placebo in intention-to-treat.  
+  **Not Supported (human ITT):** Hemoglobin increase seen only in **NON-RANDOM subgroup** defined after the fact, not vs placebo.  
   Source: [J Nutr RCT](https://pubmed.ncbi.nlm.nih.gov/39069269/)
 
 - **Immune health / inflammation (cytokines, CRP)**  
-  **Not supported (human):** No human RCT showing reductions; both human RCTs showed no difference in CRP in C15 group.  
+  **Not supported (human):** No human RCT showing reductions; both human RCTs showed **no difference in CRP** in C15 group.  
 
 - **Cognitive & mental health (dopamine/PPAR; mood/stress)**  
   **Insufficient (human):** No human trials located; claims are marketing. RCT they claim supports this (not RCT, secondary anlaysis of RCT), authors state "The present study cannot conclude that the group receiving C+15:0 together with the MD had effects in decreasing symptoms."
@@ -1095,15 +1282,15 @@ Fatty15: Another Subscription!
 
 
 - **Sleep quality**  
-  **Insufficient (human):** No C15:0 sleep RCTs; “deeper sleep” appears in marketing/surveys. RCT found do difference in sleep duration.
+  **Not supported (human):** No C15:0 sleep RCTs; “deeper sleep” appears in marketing/surveys. RCT found no difference in sleep duration.
   Example claim: [Product page](https://fatty15.com/products/your-essential-fatty-acid)
 
 - **Hunger/satiety (PPAR-α)**  
-  **Insufficient (human):** No RCTs measuring appetite/energy intake/GLP-1/ghrelin.  
+  **Not supported (human):** No RCTs measuring appetite/energy intake/GLP-1/ghrelin.  
   Example claim: [Company post](https://fatty15.com/blogs/news/healthy-body-healthy-mind-how-our-bodies-use-c15-0-to-make-the-second-ever-discovered-full-acting-endocannabinoid)
 
 - **Joint comfort**  
-  **Insufficient (human):** No human RCTs on joint pain/function.  
+  **Not supported (human):** No human RCTs on joint pain/function.  
   Example claim: [Marketing copy](https://fatty15.com/blogs/news/fatty15-near-term-benefits-and-long-term-gains)
 
 - **Gut microbiome**  
@@ -1115,7 +1302,7 @@ Fatty15: Another Subscription!
   Sources: [PLOS Med meta-analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763), [Homepage claim](https://fatty15.com/), [“Reversing cellular aging” blog](https://fatty15.com/blogs/news/reversing-cellular-aging-with-fatty15)
 
 - **"Reduces mTOR" (longevity mechanism)**  
-  **Insufficient (human):** Based on mechanistic/cell work, not human outcomes.  
+  **Not supported (human):** Based on mechanistic/cell work, not human outcomes.  
   Sources: [Company mTOR blog](https://fatty15.com/blogs/news/what-it-mtor-link-to-longevity), [Review asserting AMPK↑/mTOR↓](https://pmc.ncbi.nlm.nih.gov/articles/PMC10649853/) is written by author and of questionable relevance.
 
 - **"3× more cellular benefits than EPA (omega-3)" / "take fatty15 instead of omega-3"**  
