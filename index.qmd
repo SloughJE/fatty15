@@ -11,7 +11,7 @@ format:
 ---
 
 
-## Fatty15: Better than Everything
+### Fatty15: Better than Everything
 
 :::{.smaller2}
 
@@ -122,6 +122,16 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 
 :::
 
+---
+
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  Fatty15's GRAS status is self-declared.<br>Not public. FDA has not reviewed or approved it.
+  </h2>
+</div>
+
+
 # Fatty15 > omega-3
 
 ---
@@ -229,13 +239,21 @@ _Note: This is a scientific/consumer-protection opinion, not medical advice or a
 
 
 :::{.smaller2}
-- The analysis above reflects **my opinions** based on the **publicly cited sources** and the **state of evidence as of September 13, 2025**. It is offered for **informational and public-interest commentary** only. It is **not** medical or legal advice, and it is **not** a statement of fact about any company’s intent, ethics, or lawfulness. I **do not** allege wrongdoing and **welcome corrections** or additional independent evidence. I have **no financial relationship** with the products or companies discussed. All trademarks are the property of their respective owners.
+- This analysis reflects **my opinions** based on the **publicly cited sources** and the **state of evidence as of September 13, 2025**. It is offered for **informational and public-interest commentary** only. It is **not** medical or legal advice, and it is **not** a statement of fact about any company’s intent, ethics, or lawfulness. I **do not** allege wrongdoing and **welcome corrections** or additional independent evidence. I have **no financial relationship** with the products or companies discussed. All trademarks are the property of their respective owners.
 
 :::
 
 :::
 
 :::
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  In my view: promoting C15 as substitute for omega-3 is borderline unethical.<br>Decades of omega-3 research vs. one founder-run cell study.
+  </h2>
+</div>
 
 
 # Fatty15 and RCTs
@@ -680,15 +698,24 @@ Of the 6 "clinical trials supporting C15:0 or fatty15 benefits":
 
 ---
 
-### Clinical Trial 3
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  Only one RCT on C15 supplementation benefits.<br>Results were very weak.
+  </h2>
+</div>
+
+
+
+# Clinical Trial 3
+
+## Clinical Trial 3
 
 :::{.smaller2}
 
-:::{.fragment}
 
 The only RCT in humans on actual on Fatty15.
 
-:::
+
 :::
 
 :::{.smaller_table}
@@ -1104,19 +1131,21 @@ JBS reports grant support to the University of California, San Diego, from **Ser
 
 ---
 
-<br>
-<br>
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  Fatty15 RCT: half didn't increase C15 levels.<br>Benefit claims, based on statistical shenanigans, were overstated.
+  </h2>
+</div>
 
-From the 2 actual RCTs on C15:
 
-<br>
-<br>
+---
 
-:::{.fragment}
 
-**No replication of minor positive findings**
-
-:::
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  From the 2 actual RCTs on C15:<br>No replication of minor positive findings
+  </h2>
+</div>
 
 ---
 
