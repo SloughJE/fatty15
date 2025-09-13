@@ -1,7 +1,7 @@
 ---
 title: "Fatty15"
 subtitle: "Masters of Marketing Disguised as Science"
-author: "John | The John & Calvin Podcast"
+author: "John | The John & Calvin Podcast<br><br>This talk is my opinion based on publicly available sources as of Sept 13, 2025."
 format:
   revealjs:
     self-contained: true
@@ -21,19 +21,21 @@ format:
 
 "C15:0 is a pleiotropic nutrient with multiple dose-dependent mechanisms of action."
 
-"Cellular Fragility Syndrome"
+"An estimated 1 in 3 people may have Cellular Fragility Syndrome."
 
-"Evidence of a nutritional C15:0 deficiency - that's fixable."
+"Fatty15 fixes C15:0 deficiencies & reverses Cellular Fragility Syndrome"
 
 "Clinical Trial Results: Fatty15 Can Treat Nutritional C15:0 Deficiencies"
+
+"lower inflammation, and repair mitochondrial function"
 
 "C15:0 helps support and balance mood"
 
 "C15:0 helps support healthy cells by targeting key hallmarks of aging"
 
-"The Longevity Nutrient"
+"helps support your metabolism and healthy weight on a cellular level"
 
-"fatty15 has emerged as a leading longevity-extending geroprotector"
+"The Longevity Nutrient" "fatty15 has emerged as a leading longevity-extending geroprotector"
 
 
 :::
@@ -1248,11 +1250,11 @@ Fatty15: Another Subscription!
   **Not supported:** Not a recognized medical diagnosis (absent from [ICD-11](https://icd.who.int/), not a [MeSH](https://meshb.nlm.nih.gov/) descriptor). The term is introduced by company-affiliated authors in a single hypothesis/review and amplified in marketing/press; there is **no independent clinical validation or diagnostic criteria**. See the hypothesis paper ([Venn-Watson 2024](https://pubmed.ncbi.nlm.nih.gov/39057678/)), company blog ([fatty15](https://fatty15.com/blogs/news/cellular-fragility-syndrome-a-deep-dive-on-nutritional-c15-0-deficiencies-and-how-to-fix-them)), and third-party critique ([CSPI](https://www.cspi.org/article/fatty15-worth-hype)).
 
 - **Metabolic health (PPAR-α/δ, AMPK, mitochondria)**  
-  **Not supported (human RCTs):** 12-wk placebo-controlled trials raised blood C15:0 but **no between-group improvements** in clinical endpoints except small LDL decrease (1/37), and very very weak "subgroup" analysis for lower AST/ALT.   
+  **Not supported in human RCTs:** Two 12-week placebo-controlled trials raised circulating C15:0 but showed **no improvements in metabolic outcomes** (weight, glucose, insulin resistance, triglycerides, blood pressure).
   Sources: [J Nutr RCT (2024)](https://pubmed.ncbi.nlm.nih.gov/39069269/)
 
 - **Heart health (LDL; cardiometabolic risk/events)**  
-  **Neutral/insufficient:** No trials show fewer CVD events; observational meta-analysis shows **no association with all-cause mortality** and non-significant pooled associations for some CVD subtypes for 15:0.  
+  **not supported/insufficient:** No trials show fewer CVD events; observational meta-analysis shows **no association with all-cause mortality** and non-significant pooled associations for some CVD subtypes for 15:0. 12-wk placebo-controlled trial raised blood C15:0 but **no between-group improvements** in clinical endpoints except small LDL decrease (1/37) (not replicated in other RCT).
   Sources: [PLOS Med meta-analysis (2021)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763)
 
 - **Liver health (enzymes; fatty liver)**  
@@ -1298,7 +1300,7 @@ Fatty15: Another Subscription!
   Source: [AJCN TANGO RCT](https://pubmed.ncbi.nlm.nih.gov/38035997/)
 
 - **Anti-aging / “slows and reverses aging”**  
-  **Not supported (human outcomes):** No trials on aging endpoints or epigenetic clocks; mortality association for 15:0 is **null** in meta-analysis.  
+  **Not supported (human outcomes):** No RCTs on aging endpoints or epigenetic clocks; mortality association for 15:0 is **null** in meta-analysis.  
   Sources: [PLOS Med meta-analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763), [Homepage claim](https://fatty15.com/), [“Reversing cellular aging” blog](https://fatty15.com/blogs/news/reversing-cellular-aging-with-fatty15)
 
 - **"Reduces mTOR" (longevity mechanism)**  
@@ -1312,3 +1314,31 @@ Fatty15: Another Subscription!
 
 :::
 
+---
+
+### Conclusion
+
+In my view: 
+
+:::{.incremental}
+
+- some observational studies suggest C15 is beneficial
+- no human RCT evidence it is worth taking
+- Marketing is borderline harmful and false advertising
+- Marketing is almost a parody / satire
+
+:::
+
+# No New RCT Planned
+
+
+:::{.notes}
+
+in clinicialtrials.gov, where you register them, no new RCT on fatty15, C15:0, pentadecanoic acid.
+Could be 1-3 years (1 is optimistic) from now if we ever see a new RCT.
+
+RCT on fatty15 took about 3-4 years
+start: 2021-07-06
+Primary Completion: 2023-04-30
+
+:::
