@@ -38,3 +38,10 @@
   .screen-only { display: none !important; }
   .print-only  { display: block !important; }
 }
+
+.reveal .opinion-note {
+  font-size: 0.3em;
+  line-height: 1.1;   /* tighten spacing */
+  display: block;     /* ensures it behaves like a block element */
+  margin-top: 0.5em;  /* optional, adjust spacing above */
+}

@@ -1,7 +1,7 @@
 ---
 title: "Fatty15"
 subtitle: "Masters of Marketing Disguised as Science"
-author: "John | The John & Calvin Podcast<br><br>This talk is my opinion based on publicly available sources as of Sept 13, 2025."
+author: "John | The John & Calvin Podcast<br><br>  <span class='opinion-note'>This presentation reflects the personal opinions of the speaker, based on publicly available information as of September 13, 2025. It is intended as commentary and critique for educational purposes only. The content does not provide medical advice. No affiliation with, or endorsement by, Fatty15 or related entities is intended or implied.</span>"
 format:
   revealjs:
     self-contained: true
