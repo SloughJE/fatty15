@@ -8,6 +8,8 @@ format:
     theme: [night]
     slide-number: true
     css: styles.css
+mermaid: {}
+
 ---
 
 
@@ -15,9 +17,9 @@ format:
 
 :::{.smaller2}
 
-"C15:0 is emerging as the first essential fatty acid to be discovered in over 90 years."
-
 "100+ peer-reviewed studies have been published by independent scientists throughout the world on the benefits of C15:0, including the pure C15:0 ingredient in fatty15."
+
+"C15:0 is emerging as the first essential fatty acid to be discovered in over 90 years."
 
 "C15:0 is a pleiotropic nutrient with multiple dose-dependent mechanisms of action."
 
@@ -1211,6 +1213,13 @@ What are you paying for? Marketing!
 
 :::
 
+::: {.fragment}
+
+Unsure if you need fatty15?
+
+There's a $199 test for that!
+
+:::
 :::
 
 :::
@@ -1233,6 +1242,19 @@ Fatty15: Another Subscription!
 
 :::
 
+:::{.notes}
+
+
+- HSA/FSA: Pre-tax accounts for IRS-defined medical expenses.
+- Normally covered: Doctor visits, prescriptions, tests, devices, OTC meds.
+- Supplements: Not covered unless doctor says they’re needed for a condition.
+- Workaround: Get a Letter of Medical Necessity (LMN) → then eligible.
+- TrueMed’s role: Online telehealth that issues LMNs for supplements like Fatty15.
+- For Fatty15, they’re effectively saying: “Here’s a doctor’s note that your C15:0 supplement is medically necessary.”
+- Legality: Allowed under IRS rules, but only if tied to a medical necessity letter.
+
+
+:::
 
 ---
 
@@ -1240,11 +1262,11 @@ Fatty15: Another Subscription!
 
 :::{.smaller_large_table}
 
-- **"Essential fatty acid" / widespread deficiency**  
-  **Not supported:** C15:0 is *not* recognized as essential by authorities.
+- **"Essential fatty acid" / "past 50 years...population wide declines in C15:0 levels."**  
+  **Not supported:** C15:0 is *not* recognized as essential by authorities. No longitudinal population biomarker data proving a decades-long decline.
   Sources: [NIH ODS (EFAs = LA & ALA)](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [Company blog](https://fatty15.com/blogs/news/cellular-fragility-syndrome-a-deep-dive-on-nutritional-c15-0-deficiencies-and-how-to-fix-them)     
-  The 3 authors of the [study claijmming this](https://www.nature.com/articles/s41598-020-64960-y) are: Founder of [fatty15](https://fatty15.com/pages/stephanie-venn-watson?srsltid=AfmBOorIZisPOWXcPjqreyqn_8XFgUwoe7vfdvlfgTorI0r6n9u9X4lN), [financed by Epitracker \(Venn-Watson owned company\)](https://www.nature.com/articles/s41598-020-64960-y#ethics), and a
-  [scientific advisor to fatty15](https://fatty15.com/pages/edward-dennis?srsltid=AfmBOopekoztT_SggHC4j4XG-2a0T9bCZDddvcTJakn3GSfo-azxFvX8) who holds equity in the company. 
+  The 3 authors of the [study claiming this](https://www.nature.com/articles/s41598-020-64960-y) are: Founder of [fatty15](https://fatty15.com/pages/stephanie-venn-watson?srsltid=AfmBOorIZisPOWXcPjqreyqn_8XFgUwoe7vfdvlfgTorI0r6n9u9X4lN), [financed by Epitracker \(Venn-Watson owned company\)](https://www.nature.com/articles/s41598-020-64960-y#ethics), and a
+  [scientific advisor to fatty15](https://fatty15.com/pages/edward-dennis?srsltid=AfmBOopekoztT_SggHC4j4XG-2a0T9bCZDddvcTJakn3GSfo-azxFvX8) who holds equity in the company. [Decline over 50 years claim](https://fatty15.com/products/fatty15-test) (marketing).
   
 - **“Cellular Fragility Syndrome”**  
   **Not supported:** Not a recognized medical diagnosis (absent from [ICD-11](https://icd.who.int/), not a [MeSH](https://meshb.nlm.nih.gov/) descriptor). The term is introduced by company-affiliated authors in a single hypothesis/review and amplified in marketing/press; there is **no independent clinical validation or diagnostic criteria**. See the hypothesis paper ([Venn-Watson 2024](https://pubmed.ncbi.nlm.nih.gov/39057678/)), company blog ([fatty15](https://fatty15.com/blogs/news/cellular-fragility-syndrome-a-deep-dive-on-nutritional-c15-0-deficiencies-and-how-to-fix-them)), and third-party critique ([CSPI](https://www.cspi.org/article/fatty15-worth-hype)).
@@ -1342,3 +1364,4 @@ start: 2021-07-06
 Primary Completion: 2023-04-30
 
 :::
+
