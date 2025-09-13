@@ -8,8 +8,6 @@ format:
     theme: [night]
     slide-number: true
     css: styles.css
-mermaid: {}
-
 ---
 
 
@@ -1173,11 +1171,9 @@ Maybe they don't mention them because the first 2 are not about C15:0 or fatty15
 
 ::: {.smaller_table}
 
-::: {.fragment}
+Still want to try fatty15?
 
-but if you still want to try fatty15:
 
-:::
 ::: {.incremental}
 
 - '30 day' means 30 pills, and 100mg per pill. 
@@ -1216,6 +1212,9 @@ What are you paying for? Marketing!
 ::: {.fragment}
 
 Unsure if you need fatty15?
+
+:::
+::: {.fragment}
 
 There's a $199 test for that!
 
@@ -1344,10 +1343,10 @@ In my view:
 
 :::{.incremental}
 
-- some observational studies suggest C15 is beneficial
-- no human RCT evidence it is worth taking
-- Marketing is borderline harmful and false advertising
-- Marketing is almost a parody / satire
+- Some observational studies suggest C15:0 may be beneficial, but others are null (no clear association).
+- No human RCT evidence supplementation is worth taking
+- Marketing is borderline harmful and potentially false advertising
+- Marketing reads like parody or satire
 
 :::
 
