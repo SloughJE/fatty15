@@ -47,6 +47,62 @@ format:
 
 
 
+# Essential 
+
+---
+
+
+### Essential Fatty Acid
+
+
+
+:::{.smaller2}
+:::{.fragment}
+
+"**could it be essential**?"; [2020 Study](https://www.nature.com/articles/s41598-020-64960-y)
+
+:::
+:::{.fragment}
+
+**"is emerging as an essential fatty acid"**; [2022 Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
+
+:::
+:::{.fragment}
+
+**"(C15:0) is an essential odd-chain saturated fatty acid"**; [2023 Study](https://www.mdpi.com/2072-6643/15/21/4607)
+
+:::
+:::{.fragment}
+
+**"essential", "newly identified nutritional C15:0 deficiency syndrome (“Cellular Fragility Syndrome”)"**; [2024 Study](https://pubmed.ncbi.nlm.nih.gov/39057678/)
+
+
+:::
+:::{.fragment}
+
+**"emerged as...essential...required by animals to support both early development and long-term health", "supporting cognitive health"**; [2025 Study](https://www.mdpi.com/1422-0067/26/8/3746#B38-ijms-26-03746)
+
+
+:::
+
+<br>
+
+:::{.fragment}
+
+Every single author of all 5 of these studies is either a co-founder / equity holder / advisor / funded by / an employee of the company that makes and promotes fatty15.          
+(except one recurring research collaborator from the U.S. Navy Marine Mammal Program)
+
+:::
+
+
+:::
+
+:::{.notes}
+
+
+Could be essential → emerging essential → essential → essential + named deficiency syndrome → essential + neuroprotective/AD claims (enzyme screens) + patent
+
+:::
 
 # GRAS
 
@@ -60,7 +116,7 @@ format:
 
 :::{.fragment}
 
-> - Our ingredient is officially *GRAS (generally regarded as safe) certified*, which means fatty15 is safe for pregnant women and nursing moms.  
+> - Our ingredient is officially GRAS (generally regarded as safe) **certified**, which means fatty15 is safe for pregnant women and nursing moms.  
 - In our commitment to make fatty15/FA15/C15:0 accessible to all, we have gone above and beyond to enforce the safety of fatty15 for those of all ages and life stages by *receiving GRAS (Generally Recognized As Safe) status by the FDA*.
 
 :::
@@ -80,22 +136,13 @@ No official "GRAS certification" from the FDA. "Certified" implies FDA approval.
 
 :::
 
-
-::: {.r-stack}
-
-::: {.fragment .current-visible}
+::: {.fragment}
 
 
 - ["With a recent *self-GRAS* (Generally Recognized as Safe) affirmation"](https://www.nutritionaloutlook.com/view/nutritional-outlook-s-2021-best-of-the-industry-awards-ingredient-supplier-seraphina-therapeutics) FA15 can now be used in food and beverage products.
 
 - ["FA15™ has been approved as a food ingredient that can be used daily, up to **245 mg** per day."](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)
 
-:::
-::: {.fragment .current-visible}
-
-Evidence for Fatty15's GRAS claim has **not been reviewed by the FDA or shared with the public.**
-
-:::
 :::
 
 :::
@@ -231,14 +278,12 @@ _Note: This is a scientific/consumer-protection opinion, not medical advice or a
 
 - **Over-extrapolation from cell assays.** **Cell-panel biomarker differences ≠ clinical benefits** in people; dose/exposure relevance and translation are unproven for the claimed endpoints. [PLOS ONE methods/limitations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268778)
 
+- **Irreplaceable role.** Essential = only that nutrient (or its specific obligate precursor) suffices to prevent deficiency. [Fatty15 cannot replace ALA, an essential fatty acid, precursor to omega-3](https://pmc.ncbi.nlm.nih.gov/articles/PMC4274059) 
+
 :::
 :::{.incremental}
 
-- **In my view: borderline unethical.** Promoting **replacement** of EPA/DHA with C15:0 **without independent, head-to-head human evidence** and **against consensus nutrition guidance** risks **misleading consumers** about proven omega-3 benefits. 
-
-
-
-:::{.smaller2}
+:::{.smaller}
 - This analysis reflects **my opinions** based on the **publicly cited sources** and the **state of evidence as of September 13, 2025**. It is offered for **informational and public-interest commentary** only. It is **not** medical or legal advice, and it is **not** a statement of fact about any company’s intent, ethics, or lawfulness. I **do not** allege wrongdoing and **welcome corrections** or additional independent evidence. I have **no financial relationship** with the products or companies discussed. All trademarks are the property of their respective owners.
 
 :::
@@ -247,11 +292,18 @@ _Note: This is a scientific/consumer-protection opinion, not medical advice or a
 
 :::
 
+:::{.notes}
+
+
+- **In my view: borderline unethical.** Promoting **replacement** of EPA/DHA with C15:0 **without independent, head-to-head human evidence** and **against consensus nutrition guidance** risks **misleading consumers** about proven omega-3 benefits. 
+
+:::
+
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  In my view: promoting C15 as substitute for omega-3 is borderline unethical.<br>Decades of omega-3 research vs. one founder-run cell study.
+  In my view: promoting C15 as substitute for omega-3 is borderline unethical.<br><br>Decades of omega-3 research vs. one founder-run cell study.
   </h2>
 </div>
 
@@ -398,7 +450,7 @@ Both studies not what they say they are.
 
 :::{.fragment}
 
-[88 Chinese females](https://www.sciencedirect.com/science/article/pii/S0002916523662859?via%3Dihub) with **NAFLD** were randomly assigned to 1 of the 3
+[88 Chinese females](https://pubmed.ncbi.nlm.nih.gov/38035997/) with **NAFLD** were randomly assigned to 1 of the 3
 groups for 12 wk: diet with 300mg daily C15:0 supplementation (n = 31), diet without C15:0 supplementation (n = 28), or control (habitual diet and no C15:0 supplementation, n = 29). Treatment diet was Asian-adapted Mediterranean diet.
 
 :::
@@ -700,7 +752,7 @@ Of the 6 "clinical trials supporting C15:0 or fatty15 benefits":
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  Only one RCT on C15 supplementation benefits.<br>Results were very weak.
+  Only one actual RCT on C15 supplementation.<br><br>Outcomes were almost entirely diet/weight-loss–driven<br>(minor LDL drop with C15).
   </h2>
 </div>
 
@@ -741,7 +793,7 @@ Conclusions
 - Treatment was safe and well tolerated.
 - Main secondary analysis: GGT increased by ~10 U/L in placebo but decreased by ~1 U/L in treatment, giving a significant between-group difference of ~11 U/L (interpret cautiously)
 - In subgroup analysis of the secondary outcomes:
-  - "significantly greater decreases in alanine aminotransferase (-29 U/L, P = 0.001) and aspartate aminotransferase (-6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL"
+  - "significantly greater decreases in ALT (-29 U/L, P = 0.001) and AST (-6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL"
 
 :::
 
@@ -1133,7 +1185,7 @@ JBS reports grant support to the University of California, San Diego, from **Ser
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  Fatty15 RCT: half didn't increase C15 levels.<br>Benefit claims, based on statistical shenanigans, were overstated.
+  Fatty15 RCT:<br>Half didn't increase C15 levels.<br><br>Benefit claims, based on statistical shenanigans, were overstated.
   </h2>
 </div>
 
@@ -1143,7 +1195,7 @@ JBS reports grant support to the University of California, San Diego, from **Ser
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  From the 2 actual RCTs on C15:<br>No replication of minor positive findings
+  From the 2 actual RCTs on C15:<br><br>No replication of minor positive findings
   </h2>
 </div>
 
@@ -1374,6 +1426,7 @@ In my view:
 
 - Some observational studies suggest C15:0 may be beneficial, but others are null (no clear association).
 - No human RCT evidence supplementation is worth taking
+- Impossible to decouple the business and science
 - Marketing is borderline harmful and potentially false advertising
 - Marketing reads like parody or satire
 
