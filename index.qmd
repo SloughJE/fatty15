@@ -348,7 +348,7 @@ Here’s a breakdown of the six clinical trials and seven studies to date:"
 
 ### Clinical Trial 1
 
-:::{.smaller}
+:::{.smaller2}
 
 :::{.fragment}
 
@@ -358,7 +358,6 @@ Here’s a breakdown of the six clinical trials and seven studies to date:"
 :::
 
 <br>
-<br>
 
 :::{.fragment}
 
@@ -366,6 +365,13 @@ Here’s a breakdown of the six clinical trials and seven studies to date:"
 
 :::
 
+<br>
+
+:::{.fragment}
+
+Single, 2.5 gram acute MBT bolus; PK readouts only; no multi-dose curve; not about chronic supplementation.
+
+:::
 
 :::
 
@@ -384,13 +390,16 @@ The purpose was to evaluate whether the MBT could detect fat malabsorption in he
 
 "Materials and methods: The MBT with the PA and THA were delivered in a breakfast test meal (2.5 g PA and either 5g or 8 g THA)"
 
+"Based on pharmacokinetic data, in which every 100 mg of C15:0 ingested results in an approximate 10 µM increase in circulating C15:0, circulating C15:0 levels would decrease from 20 µM to 5 µM (an approximate decline from 0.2% to 0.05% of total fatty acids) [97,98]."
+
+
 :::
 
 ---
 
 ### Clinical Trial 2
 
-:::{.smaller}
+:::{.smaller2}
 
 :::{.fragment}
 
@@ -398,7 +407,6 @@ The purpose was to evaluate whether the MBT could detect fat malabsorption in he
 
 :::
 
-<br>
 
 :::{.fragment}
 
@@ -408,6 +416,14 @@ The purpose was to evaluate whether the MBT could detect fat malabsorption in he
 
 <br>
 
+:::{.fragment}
+
+"Based on pharmacokinetic data, in which every 100 mg of C15:0 ingested results in an approximate 10 µM increase in circulating C15:0" [97,98].<br> 
+- "Cellular Fragility Syndrome" Venn-Watson paper
+
+<br>
+
+:::
 :::{.fragment}
 
 > "The authors concluded that pure free fatty acid C15:0 is, on average, **100% bioavailable**."
@@ -430,6 +446,7 @@ And note:
 
 3. 100% bioavailable? What? That is only possible with injection. It is literally ridiculous. 100% bioavailable ON AVERAGE? 
 
+Pure, 100% fabrication
 Study quote: "The PA bioavailability estimate of 1.07 (95%CI, 0.827, 1.42) for subjects with CF was similar to healthy subjects. The estimate for CF subjects administered enzymes was 0.88 (0.72, 1.09). Although 12.3% lower than in healthy subjects, the 95%CI contains the null value of 1."
 
 IS that where they got 100%? 
@@ -439,8 +456,18 @@ This is ‘similar’ bioavailability in 2 groups. It says nothing about absolut
 Both studies not what they say they are.
 
 
+Stallings & Mascarenhas: acute, gram-level malabsorption test PK; they do not justify a chronic “per-100 mg → µg/mL” rule for daily supplements. 
+
 :::
 
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h3 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  The dose-response relationship claimed is not in those papers.<br><br>It’s methodologically indefensible.<br><br>100% bioavailable = 100% fabrication
+  </h3>
+</div>
 
 ---
 
@@ -556,6 +583,16 @@ Sleep duration, STAI—State anxiety score, STAI—Trait anxiety score, BDI-II d
 :::
 :::
 
+:::.{notes}
+
+Interestingly, the c15 level increase in that group was 24 (-27, 74). 
+
+Can estimate that somewhere around 40% decreased C15 levels. (approximate we don't know individual data)
+
+with 300mg daily! and 84% adherence.
+
+:::
+
 ---
 
 ### Clinical Trial 5
@@ -594,13 +631,18 @@ Study quotes:
 
 :::{.notes}
 
+C15:0 did show the largest within-group drop in trait anxiety (d = 0.69), but the study used paired (within-group) tests only—no between-group superiority analysis, so you can’t claim C15:0 was best overall.
+
+
 1. NOT a separate clinical trial. 
 
 The original study was NOT set up to test any mental health / anxiety issues. 
 
 Not sure why they mention the body weight thing. 
 
-Not robust for: "Diet+C15 is better than Diet–C15 or Control on anxiety/depression." There is no between-arm inferential test to back that. Even the manuscript states it cannot conclude a C15:0 effect on symptoms.
+clinically “reliable change” counts within the C15:0 arm, the tables show very small numbers by subgroup (e.g., ~2 participants for state/trait anxiety and ~3 for depression among those starting in higher-symptom ranges)
+
+In this RCT, the C15:0-supplemented group had the largest within-group drop in trait anxiety and a significant drop in state anxiety, but depressive symptoms (“mood” by BDI-II) improved in all groups and not most in the C15:0 group (the control actually had a slightly larger depression effect size than C15:0). The paper did not report between-group superiority tests and even notes it cannot conclude C15:0 caused the symptom decreases
 
 Paired t-tests were employed to assess significant changes over time
 Only within-group paired t-tests, No between-group modeling of change.
@@ -752,7 +794,7 @@ Of the 6 "clinical trials supporting C15:0 or fatty15 benefits":
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  Only one actual RCT on C15 supplementation.<br><br>Outcomes were almost entirely diet/weight-loss–driven<br>(minor LDL drop with C15).
+  Only one actual RCT on C15 supplementation.<br><br>Outcomes were almost entirely diet/weight-loss driven<br>(minor LDL drop with C15).
   </h2>
 </div>
 
@@ -791,7 +833,6 @@ Conclusions
 ::: {.incremental}
 - C15:0 supplementation significantly increased plasma C15:0 by 1.88 μg/mL compared to placebo. 
 - Treatment was safe and well tolerated.
-- Main secondary analysis: GGT increased by ~10 U/L in placebo but decreased by ~1 U/L in treatment, giving a significant between-group difference of ~11 U/L (interpret cautiously)
 - In subgroup analysis of the secondary outcomes:
   - "significantly greater decreases in ALT (-29 U/L, P = 0.001) and AST (-6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL"
 
@@ -804,44 +845,61 @@ Conclusions
 
 2:1 assignment was generated statistically for the trial design, with the primary aim being feasibility and adequate power in this pilot.
 
+- Main secondary analysis: GGT increased by ~10 U/L in placebo but decreased by ~1 U/L in treatment, giving a significant between-group difference of ~11 U/L (interpret cautiously)
+
 :::
 
 ---
 
 ### Clinical Trial 3
 
-:::{.smaller2}
+:::{.smaller}
+
+Did fatty15 increase C15:0 levels?
+
+:::
+:::{.smaller_table}
 
 :::{.fragment}
 
-Subgroup analysis of the secondary outcomes:
+
+> "Among participants who adhered to the protocol, their **C15:0 levels increased at the same amounts demonstrated by Mascarenhas et al. and Stallings et al**.<br>Namely, 200 mg of C15:0 resulted in raised circulating C15:0 levels of 2.3 μg/ml." - fatty15 
+
+:::
+
+
+:::
+
+:::{.smaller_table}
+
+:::{.fragment}
+
+According to the study, in the fatty15 group:
 
 :::
 
 :::{.incremental}
-- Half (10) of the treatment group did not achieve C15 blood levels of > 5 μg/mL
 
-- Authors state: "Given the inter-individual variance in treatment response, a nuanced appraisal relative to a proposed threshold of 5 μg/mL was pursued."
+- changes in circulating C15:0 range from -1.21 to 5.31 μg/mL, avg 1.88 μg/mL. (2.07 adj. for weight)
+- Mean adherence was ~89%
+- substantial variability among individuals within the treatment group
+- Study states: "Given the inter-individual variance in treatment response, a **nuanced** appraisal relative to a proposed **threshold of 5 μg/mL** was pursued."
 
 
-- based on end-of-treatment plasma C15:0 levels
-- "informed by epidemiological and preclinical literature"
+:::
+
+:::{.incremental}
+
+- based on end-of-treatment C15:0 levels and "informed by epidemiological and preclinical literature"
 - after the fact, non-randomized, exploratory subgroup analysis
 
+- Half (10) subjects in the treatment group did not achieve C15 blood levels of > 5 μg/mL (the "proposed threshold")
+
 :::
-:::
-
-:::{.smaller2}
-
-:::{.fragment}
-
-
-> "Among participants who adhered to the protocol, their **C15:0 levels increased at the same amounts demonstrated by Mascarenhas et al. and Stallings et al**.<br>Namely, 200 mg of C15:0 resulted in raised circulating C15:0 levels of 2.3 ug/ml." - fatty15 
 
 :::
 
 
-:::
 
 :::{.notes}
 
@@ -857,6 +915,8 @@ RCT,  200 mg C15:0 or placebo daily, 20 c:15, 10, placebo., overweight / obese y
 Mis-citation of Mascarenhas/Stallings: those papers are MBT pharmacokinetic tests using grams of pentadecanoic acid as a tracer (e.g., 2.5 g PA), not a 12-week 200 mg/day supplementation. They don’t justify “200 mg → +2.3 µg/mL.”
 
 Unreported “+2.3 µg/mL” figure: the RCT reports a +1.88 µg/mL vs placebo mean increase after 12 weeks. It does not report a 2.3 µg/mL rise “among adherers.”
+
+**Reverse logic**: Groups were formed after the study, based on *final* C15:0 levels, not on adherence.
 
 
 :::
@@ -909,15 +969,8 @@ Change in plasma C15:0 levels
 
 
 
-::: {.smaller_table}
+::: {.smaller2}
 
-> "C15:0 levels increased among participants who strictly adhered to the protocol."
-
-::: {.fragment}
-
-**Reverse logic**: Groups were formed after the study, based on *final* C15:0 levels, not on adherence.
-
-:::
 
 ::: {.fragment}
 
@@ -1125,7 +1178,7 @@ C-reactive protein (CRP), Alanine aminotransferase (ALT), Aspartate aminotransfe
 ::: {.fragment}
 
 Note: in comparison (pre-threshold), GGT was found to be significantly lower in treatment group. In 'threshold analysis' it was NOT.
-Similarly, AST, ALT, Hemoglobin were (at least one group) was different in threshold group analysis, but not in main analysis
+At least one group differed for AST, ALT, and Hemoglobin. 
 
 :::
 :::
@@ -1185,7 +1238,7 @@ JBS reports grant support to the University of California, San Diego, from **Ser
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  Fatty15 RCT:<br>Half didn't increase C15 levels.<br><br>Benefit claims, based on statistical shenanigans, were overstated.
+  Fatty15 RCT:<br>It does not reliably increase C15 levels.<br><br>Benefit claims, based on statistical shenanigans, were incorrectly stated.
   </h2>
 </div>
 
@@ -1244,25 +1297,26 @@ Maybe they don't mention them because the first 2 are not about C15:0 or fatty15
 
 ### HOW MUCH? 
 
+:::{.fragment}
 
-::: {.columns}
+:::{.columns}
 
-::: {.column width="55%"}
+:::{.column width="55%"}
 
 
-::: {.smaller_table}
+:::{.smaller_table}
 
 Still want to try fatty15?
 
 
-::: {.incremental}
+:::{.incremental}
 
 - '30 day' means 30 pills, and 100mg per pill. 
 - Study protocol of 200mg or 300mg
 
 :::
 
-::: {.fragment}
+:::{.fragment}
 
 To recreate the study doses:      
 (based on 90 day subscription)
@@ -1277,25 +1331,25 @@ To recreate the study doses:
 - note: *dose > 245mg per day is no longer GRAS*
 
 :::
-::: {.fragment}
+:::{.fragment}
 
 What are you paying for? Marketing!
 
 :::
 
 
-::: {.incremental}
+:::{.incremental}
 
 - "HSA/FSA eligible"
 
 :::
 
-::: {.fragment}
+:::{.fragment}
 
 Unsure if you need fatty15?
 
 :::
-::: {.fragment}
+:::{.fragment}
 
 There's a $199 test for that!
 
@@ -1306,9 +1360,9 @@ There's a $199 test for that!
 
 
 
-::: {.column width="45%"}
+:::{.column width="45%"}
 
-::: {.smaller_table}
+:::{.smaller_table}
 
 Fatty15: Another Subscription!
 
@@ -1321,6 +1375,8 @@ Fatty15: Another Subscription!
 :::
 
 :::
+:::
+
 
 :::{.notes}
 
@@ -1335,6 +1391,39 @@ Fatty15: Another Subscription!
 
 
 :::
+
+
+
+---
+
+### Conclusion
+
+In my view: 
+
+:::{.incremental}
+
+- Some observational studies suggest C15:0 may be beneficial, but others are null (no clear association).
+- No human RCT evidence supplementation is worth taking
+- Impossible to decouple the business and science
+- Marketing is borderline harmful and potentially false advertising
+- Marketing looks like parody or satire
+
+:::
+
+# No New RCT Planned
+
+
+:::{.notes}
+
+in clinicialtrials.gov, where you register them, no new RCT on fatty15, C15:0, pentadecanoic acid.
+Could be 1-3 years (1 is optimistic) from now if we ever see a new RCT.
+
+RCT on fatty15 took about 3-4 years
+start: 2021-07-06
+Primary Completion: 2023-04-30
+
+:::
+
 
 ---
 
@@ -1413,36 +1502,6 @@ Fatty15: Another Subscription!
   **Not supported (human); potentially misleading—arguably *borderline unethical*.** The "3×" figure comes incorrect math from a single **in-vitro** screen by company-affiliated authors; there are NO **human RCTs** or animal RCTs showing clinical superiority over EPA. Substitution messaging (implying you should take fatty15 **instead of** omega-3) conflicts with established recommendations that EPA/DHA remain important nutrients. Comparative health claims promoting substitution away from EPA/DHA **conflicts with consensus guidance** and, without competent and reliable human evidence, should be backed by **competent and reliable scientific evidence**, typically well-controlled human trials—which is not present here, a concern under [FTC health-claims standards](https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf).      
   Sources: [Company claim](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study), [FTC Health Products Compliance Guidance](https://www.ftc.gov/system/files/ftc_gov/pdf/Health-Products-Compliance-Guidance.pdf), [NIH ODS: Omega-3](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/), [AHA: Fish & omega-3](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/fish-and-omega-3-fatty-acids)  
   _Note: This is a scientific/consumer-protection opinion, not legal advice or an allegation of unlawful conduct._
-
-:::
-
----
-
-### Conclusion
-
-In my view: 
-
-:::{.incremental}
-
-- Some observational studies suggest C15:0 may be beneficial, but others are null (no clear association).
-- No human RCT evidence supplementation is worth taking
-- Impossible to decouple the business and science
-- Marketing is borderline harmful and potentially false advertising
-- Marketing reads like parody or satire
-
-:::
-
-# No New RCT Planned
-
-
-:::{.notes}
-
-in clinicialtrials.gov, where you register them, no new RCT on fatty15, C15:0, pentadecanoic acid.
-Could be 1-3 years (1 is optimistic) from now if we ever see a new RCT.
-
-RCT on fatty15 took about 3-4 years
-start: 2021-07-06
-Primary Completion: 2023-04-30
 
 :::
 
