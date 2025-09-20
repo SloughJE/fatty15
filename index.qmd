@@ -1,7 +1,7 @@
 ---
 title: "Fatty15"
 subtitle: "Masters of Marketing Disguised as Science"
-author: "John | The John & Calvin Podcast<br><br>  <span class='opinion-note'>This presentation reflects the personal opinions of the speaker, based on publicly available information as of September 13, 2025. It is intended as commentary and critique for educational purposes only. The content does not provide medical advice. No affiliation with, or endorsement by, Fatty15 or related entities is intended or implied.</span>"
+author: "John | The John & Calvin Podcast<br><br>  <span class='opinion-note'>This presentation reflects the personal opinions of the speaker, based on publicly available information as of September 18, 2025. It is intended as commentary and critique for educational purposes only. The content does not provide medical advice. No affiliation with, or endorsement by, Fatty15 or related entities is intended or implied.</span>"
 format:
   revealjs:
     self-contained: true
@@ -45,9 +45,273 @@ format:
 
 <img src="assets/table_benefits.png" style="width:60%;display:block;margin:0rem auto 0;">
 
+---
+
+### Quick Definitions
+
+:::{.smaller2}
+
+:::{.incremental}
+
+- Fat
+  - One of the three main nutrients in food (with protein and carbohydrate). 
+  - Fats are made of fatty acids and glycerol.
+  
+- Fatty Acid
+  - Components of fat. Made of a chain of carbon atoms with hydrogen attached.
+  - Different fatty acids give fats their properties (solid or liquid at room temperature).
+
+- Saturated Fat
+  - Fat made mostly of saturated fatty acids (no double bonds in carbon chain)
+  - Solid at room temperature. Found in butter, cheese, meat, some tropical oils
+
+- C15:0 (also called C15, pentadecanoic acid, or **fatty15**)
+  - A specific type of saturated fatty acid with 15 carbon atoms.
+  - fatty15 = C15:0
+
+- C17:0: similar as above, but 17 carbons.
 
 
-# Essential 
+:::
+:::
+
+---
+
+### Sources of C15 / C17
+
+:::{.smaller2}
+
+:::{.incremental}
+
+- Exogenous (diet)
+- C15 stronger dietary biomarker for dairy intake
+- Endogenous / microbial fermentation
+  - both, but stronger for c15
+- Vegans show detectable levels of both
+
+:::
+:::{.fragment}
+
+| Food (serving)                              | C15:0 (mg) | C17:0 (mg) |
+|--------------------------------------------|-----------:|-----------:|
+| Butter, unsalted (1 Tbsp; ~11.5 g fat)     |        121 |         70 |
+| Whole milk (1 cup; ~7.9 g fat)             |         83 |         48 |
+| Cheddar cheese (1 oz; ~9.5 g fat)          |        100 |         58 |
+| Beef fat (1 Tbsp; ~12.8 g fat)          |         55 |        106 |
+| Salmon, Atlantic, farmed, **raw** (3 oz)   |         39 |         37 |
+| Cod, Pacific, **cooked** (3 oz)            |          0 |          0 |
+
+
+<sub>sources: [1](https://tools.myfooddata.com/nutrition-facts/173430/wt2) [2](https://tools.myfooddata.com/nutrition-facts/171265/wt1) [3](https://tools.myfooddata.com/nutrition-facts/173414/wt4) [4](https://tools.myfooddata.com/nutrition-facts/171400/wt1) [5](https://loinc.org/48366-9/) [6](https://www.hmdb.ca/metabolites/hmdb02259) [7](https://tools.myfooddata.com/nutrient-ranking-tool/15-0/fish/highest) [8](https://tools.myfooddata.com/nutrient-ranking-tool/17-0/fish/highest) [9](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02517-6)</sub>
+
+:::
+:::
+
+---
+
+### The fatty15 Origin Story
+
+<br>
+
+:::{.smaller}
+:::{.fragment}
+
+
+[After analyzing thousands of samples collected over the span of about 50 years, Venn-Watson and her team were able to determine what the healthiest aging dolphins had in common. <br>“We thought it was going to be omega-3′s, because all they eat are fish. And instead, it was C15:0, a saturated fatty acid I had never heard of,” she says.](https://www.cnbc.com/2025/05/24/longevity-nutrient-1-food-this-doctor-always-eats-to-get-enough-of-it.html) - Published May 24, 2025
+
+:::
+:::{.fragment}
+<br>
+[Modified fish diet shifted serum metabolome and alleviated chronic anemia in bottlenose dolphins (Tursiops truncatus): Potential role of odd-chain saturated fatty acids](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0230769)
+
+:::
+:::
+
+:::{.notes}
+
+- study Dolphin omega-3 intake went from 81 GRAMS to 60 grams.
+- NOT transferable to humans.
+- C15 is just indicative of the different diet. 
+
+> ["Back in 2015, our co-founder and veterinary epidemiologist, Dr. Steph Venn-Watson, was searching for which nutrients in an all-fish diet helped super-smart dolphins live their longest, healthiest lives possible.<br>While Steph and her team thought omega-3s would certainly be on top of the healthy-nutrients-from-fish list, an advanced technology called metabolomics revealed that the healthiest nutrient in fish appeared to be C15:0, which is an odd-chain saturated fatty acid. Unexpectedly, omega-3s did not make the list."](https://fatty15.com/blogs/news/we-can-be-better-the-why-behind-fatty15-s-latest-ad-campaign)
+
+:::
+
+---
+
+### Dolphin Research to fatty15
+
+:::{.smaller_large_table}
+
+:::{.fragment}
+
+**The Beginnings**
+
+- **2008** — Venn-Watsons co-found [Epitracker](https://www.epitracker.com/dolphinhuman.html) to mine Navy dolphin data for translatable molecules
+
+- **May 7, 2015** — Navy issues **Notice of Intent** to grant Epitracker a (partial) exclusive patent license (tech transfer trigger) [[Federal Reg.](https://public-inspection.federalregister.gov/2015-10990.pdf?1430916369=)].
+
+- **Jul 22, 2015** — Dolphin study highlights **C17:0** (heptadecanoic acid) links to metabolic markers [[PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0132117)].
+
+:::
+:::{.fragment}
+
+**Commercialization**
+
+- Jan 7, 2015 / Dec 28, 2015 — Patents filed (granted Feb 7, 2017 / Jul 18, 2017) **C17:0 patents** by Navy/Stephanie Venn-Watson for  diagnosis/therapy ([US 9,561,206](https://patents.google.com/patent/US20160193170A1/en)); supplementation ([US 9,707,199](https://patents.google.com/patent/US9707199B2/en)).
+ - April 2017 — US Navy grants Epitracker an [exclusive license](https://www.federalregister.gov/documents/2017/04/03/2017-06454/notice-of-intent-to-grant-exclusive-patent-license-epitracker-inc) covering those patents
+- **2019** — Epitracker announces **Seraphina Therapeutics** as the commercialization spin-out ([Epitracker news](https://www.epitracker.com/news.html)).
+
+:::
+:::{.fragment}
+
+**The Pivot to C15**
+
+- **Nov 28, 2019** Pivot to **C15:0** — **US 2019/0358183 A1** publishes: **broadens to odd-chain FAs incl. C15:0**; frames **planned supplement/food ingredient** uses (first public C15 pivot appears **in IP**) ([Google Patents](https://patents.google.com/patent/US20190358183A1/en)).
+
+- **Apr 7, 2020** — Dolphin metabolomics/anemia paper; **First published paper focusing on C15**. COI lists Epitracker/Seraphina ([PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230769)).
+
+:::
+:::{.fragment}
+
+**C15 is Essential and Product Launch (same day publish/product launch)**
+
+- **May 18, 2020** — *Scientific Reports* paper (founder-led) states C15:0 “potentially essential” (animal/cell work)  [[Sci. Reports](https://www.nature.com/articles/s41598-020-64960-y)]<br>same-day **launch PR** positioning C15:0 as “new essential FA”, fundraising, & fall 2020 supplement plan [[PR Newswire](https://www.prnewswire.com/news-releases/seraphina-therapeutics-introduces-newly-discovered-potential-essential-saturated-fatty-acid-present-in-butter-301060418.html); trade press [[C&EN](https://cen.acs.org/business/start-ups/Seraphina-launches-new-fatty-acid/98/i20)]].
+
+- **Nov 19, 2020** — **Soft-launch** of **fatty15** noted; **Jan 4, 2021** official DTC launch [[NutraIngredients](https://www.nutraingredients-usa.com/Article/2020/11/19/Fatty15-New-supplement-brand-brings-good-saturated-fat-from-US-Navy-dolphins-to-consumers/)], [[Launch PR](https://www.prnewswire.com/news-releases/meet-fatty15-a-supplement-derived-from-a-newly-discovered-essential-nutrient-helping-our-bodies-combat-age-related-breakdown-301199566.html)].
+
+- **Jun 24, 2021** — **GRAS** status for FA15 (C15:0 ingredient) announced (opens **food** channel) [[Business Wire](https://www.businesswire.com/news/home/20210624005920/en/Seraphina-Therapeutics-Hits-Significant-Regulatory-Milestone-Earning-GRAS-Status-for-FA15)], [[FoodDive](https://www.fooddive.com/news/seraphina-therapeutics-fatty-acid-powder-gains-gras-status/602238/)].
+
+- **Sep 14, 2021** — Patent on **C15:0 human dosing/uses** granted (commercial dosing claims) [[US 11,116,740](https://patents.google.com/patent/US11116740B2/en)].
+
+:::
+:::
+
+:::{.notes}
+
+- Pre-2020 literature: C17:0 looks partly endogenous, making “deficiency/essential” claims weak; C15:0 less so → easier to frame as “missing.”
+- Early science/IP were C17-centric; by 2019 the filings pivot to C15 with explicit supplement language.
+- C15 fits the marketing: more plausibly “essential,” clean pill narrative; C17 doesn’t.
+- The 2020 metabolomics emphasis on C15 landed after the pivot—reads like post-hoc justification.
+- No smoking-gun memo, but the timeline + COIs strongly suggest a commercially driven C17→C15 switch.
+
+:::
+
+---
+
+
+### Dolphin Research to fatty15
+
+:::{.smaller_caption}
+
+
+**TEDx and more Publishing with Marketing Language Built-in**
+
+- **Mar 27, 2022** — **TEDx San Diego** talk ties the dolphin story to human aging (brand awareness push, thought-leadership marketing) [[TED](https://www.ted.com/talks/stephanie_venn_watson_dvm_mph_save_the_dolphins_save_the_world)].
+
+- **May 26, 2022** — **PLOS ONE** paper directly compares **C15:0 vs omega-3 (EPA)** across 12 primary human cell systems (positioning vs. incumbent category) [[PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0268778)]. ["the essential, essential fatty acid"](https://www.biospace.com/new-study-from-seraphina-therapeutics-finds-that-a-good-saturated-fat-c15-0-is-better-broader-and-safer-than-omega-3#:~:text=,the%20essential%2C%20essential%20fatty%20acid)
+
+- **Oct 30, 2023 — Nutrients:** **Review** asserting C15:0 as an **essential fatty acid** with **longevity-like** activities (comparisons to metformin/rapamycin). (brand narrative). [Nutrients](https://pubmed.ncbi.nlm.nih.gov/37960259/)
+
+- **Jul 2024** — **Metabolites (review)** coins **“Cellular Fragility Syndrome”** & sets “optimal” C15:0 targets → **immediate trade coverage & branded newsletter**. [Metabolites](https://www.mdpi.com/2218-1989/14/7/355), [NutraIngredients](https://www.nutraingredients-usa.com/Article/2024/08/06/C15-0-may-hold-the-key-to-fixing-Cellular-Fragility-Syndrome/), [DiscoverC15 Newsletter PDF](https://www.discoverc15.com/wp-content/uploads/2024/07/Newsletter-93.pdf)
+
+
+:::{.fragment}
+
+**fatty15 RCT Published.**
+
+- **2024** — First human RCT with fatty15 appears (early clinical step) [[J. Nutrition](https://jn.nutrition.org/article/S0022-3166%2824%2900411-5/fulltext)].
+
+:::
+:::{.fragment}
+
+**The Marketing and Ad Spend Significantly Increase**
+
+- **May 2025** — Coordinated **“vs. Omega-3”** marketing (blog + ad campaign) explicitly leverages the 2022 paper [[Campaign explainer](https://fatty15.com/blogs/news/we-can-be-better-the-why-behind-fatty15-s-latest-ad-campaign)], [[“Deep Dive” blog](https://fatty15.com/blogs/news/deep-dive-fatty15-vs-omega-3-study)], [[FAQ advising swap](https://fatty15.com/pages/faqs)].
+
+- **2025 — Paid media ramp (CTV + creators + affiliates):** [Roku Ads case study](https://advertising.roku.com/learn/resources/how-dtc-wellness-brand-fatty15-turned-tv-screens-into-shopping-carts-with-roku-ads-manager) (Jul 22); TV/CTV spots “Longevity” & “Age Without Breaking” ([iSpot 1](https://www.ispot.tv/ad/BIxY/fatty15-longevity), [iSpot 2](https://www.ispot.tv/ad/BGpK/fatty15-age-without-breaking-15-off-first-order)) (Jul 24 / Sep 10); creative highlighted by **Tinuiti**/**Myriad** ([Myriad blog](https://myriad.video/blog/creating-a-whimsical-video-for-fatty15/)) (Aug 26); plan to **double ad spend** ([Attribution case study](https://www.attributionapp.com/case-studies/fatty15/)); ongoing **podcast sponsorships** ([Crooked sponsors](https://crooked.com/sponsors/));<br>
+active **affiliate** + **Health Care Professional (aka Doctor) Affiliate** programs ([Affiliate](https://fatty15.com/pages/affiliate), [HCP Affiliate](https://fatty15.com/pages/hcpaffiliate)).
+
+:::
+:::
+
+:::{.notes}
+
+
+
+:::
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <h4 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
+  Early publications and patents emphasized C17.<br>Switch to C15 appeared first in branding / patent filings, prior to publishing paper focusing on C15.<br><br>More recently, marketing and ad spend significantly increases, science and evidence does not.
+  </h4>
+</div>
+
+
+
+# Patents
+
+---
+
+### Patents
+
+:::{.smaller_table}
+
+[Seraphina Therapeutics (fatty15) holds over 60 patents on one single molecule. How?](https://finance.yahoo.com/news/groundbreaking-longevity-supplement-fatty15-catapults-120000204.html)
+
+:::{.incremental}
+
+- A **natural molecule** cannot be patented "as found" 
+- Methods of use, dosing regimens, compositions, manufacture/purification, and target blood levels [can be patented](https://pmc.ncbi.nlm.nih.gov/articles/PMC4086272/)
+
+:::
+
+:::{.incremental}
+
+- Patents are not proof of efficacy or regulatory approval, patents = right to exclude
+- Human RCTs aren’t required. **Credible utility** & **enablement**
+
+:::
+
+:::{.incremental}
+
+- First patents are on C17 in 2017. Not on C15.
+
+- [C15:0 Patent appears in 2019](https://patents.google.com/patent/US20190358183A1/en): pre-grant US 2019/0358183 A1 (filed Aug 2019; pub Nov 2019) broadens from C17:0 to odd-chain FAs incl. C15:0, "planned supplement"/food uses & dosing ranges.
+- [2020 Scientific Reports](https://www.nature.com/articles/s41598-020-64960-y) paper positions C15:0 as “potentially essential,” cites anti-inflammatory/dyslipidemia/fibrosis signals in models
+- [Later-issued US 11,116,740](https://patents.google.com/patent/US11116740B2/en) claims administering C15:0 (e.g., mg/kg/day for ≥1 month) to alleviate states like oxidative stress, dyslipidemia, insulin resistance, incl. as food/beverage additives
+
+:::
+
+:::{.fragment}
+
+Why so many?
+
+:::
+
+:::{.incremental}
+
+
+- **Portfolio strategy:** The more patents the greater the ability to threaten/stop close competitors
+
+- **Exclusivity messaging:** "patented", leverage with retailers/investors, .
+
+:::
+:::
+
+:::{.notes}
+
+- “Credible utility” = plausible, specific use backed by some evidence.
+
+- “Enablement” = teach others how to actually do it across the full scope you claim.
+
+- (in-vitro/animal + well-described use can suffice; even prophetic/hypothetical examples are allowed)
+
+:::
+
+# Essential Fatty Acid
 
 ---
 
@@ -99,8 +363,11 @@ Every single author of all 5 of these studies is either a co-founder / equity ho
 
 :::{.notes}
 
+a substance that is necessary for normal bodily functions, growth, and energy but cannot be made by the body or cannot be made in sufficient amounts, thus requiring it to be obtained from dietary intake. lack of them causes a specific deficiency that is prevented or reversed when the nutrient is restored
 
 Could be essential → emerging essential → essential → essential + named deficiency syndrome → essential + neuroprotective/AD claims (enzyme screens) + patent
+
+
 
 :::
 
@@ -112,11 +379,11 @@ Could be essential → emerging essential → essential → essential + named de
 
 :::{.smaller_table}
 
-> FAQ: ["Is it safe to take when pregnant?"](https://fatty15.com/pages/faqs) 
+> FAQ: ["Is it safe to take when pregnant?", "What is the recommended age to start taking fatty15?"](https://fatty15.com/pages/faqs) 
 
 :::{.fragment}
 
-> - Our ingredient is officially GRAS (generally regarded as safe) **certified**, which means fatty15 is safe for pregnant women and nursing moms.  
+> - Our sole ingredient in fatty15, C15:0, is GRAS (generally regarded as safe) **certified**, which means fatty15 is safe for children age 4+, pregnant women, nursing moms, and pretty much everyone except for infants and toddlers.
 - In our commitment to make fatty15/FA15/C15:0 accessible to all, we have gone above and beyond to enforce the safety of fatty15 for those of all ages and life stages by *receiving GRAS (Generally Recognized As Safe) status by the FDA*.
 
 :::
@@ -174,7 +441,7 @@ GRAS ≠ Automatically Safe for Pregnant or Nursing moms.
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  Fatty15's GRAS status is self-declared.<br>Not public. FDA has not reviewed or approved it.
+  Fatty15's GRAS status is self-declared.<br>Evidence is not public.<br>FDA has not certified, reviewed or approved it.
   </h2>
 </div>
 
@@ -583,7 +850,7 @@ Sleep duration, STAI—State anxiety score, STAI—Trait anxiety score, BDI-II d
 :::
 :::
 
-:::.{notes}
+:::{.notes}
 
 Interestingly, the c15 level increase in that group was 24 (-27, 74). 
 
@@ -1088,7 +1355,7 @@ we're down to 10/10/9 people in groups. Getting squirrely.
 
 Study Abstract: 
 
-> "Half of the participants in the treatment group had a posttreatment C15:0 level >5 μg/mL. In these individuals, there were significantly greater decreases in alanine aminotransferase (−29 U/L, P = 0.001) and aspartate aminotransferase (−6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), as compared with participants that did not reach a posttreatment level >5 μg/mL."
+> "Half of the participants in the treatment group had a posttreatment C15:0 level >5 μg/mL. In these individuals, there were significantly greater decreases in alanine aminotransferase (−29 U/L, P = 0.001) and aspartate aminotransferase (−6 U/L, P = 0.014), as well as a greater increase in hemoglobin (0.60 g/dL, P = 0.010), **as compared with participants that did not reach a posttreatment level >5 μg/mL**."
 
 :::
 :::{.incremental}
@@ -1238,7 +1505,7 @@ JBS reports grant support to the University of California, San Diego, from **Ser
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h2 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  Fatty15 RCT:<br>It does not reliably increase C15 levels.<br><br>Benefit claims, based on statistical shenanigans, were incorrectly stated.
+  Fatty15 RCT:<br>It does not reliably increase C15 levels.<br><br>Benefits claimed were incorrectly stated and based on statistical shenanigans.
   </h2>
 </div>
 
@@ -1505,3 +1772,20 @@ Primary Completion: 2023-04-30
 
 :::
 
+
+---
+
+### Vegans and C15 / C17. Fiber?
+
+
+:::{.smaller_table}
+
+:::{.incremental}
+
+- Comparative analysis of fatty acid profiles across omnivorous, flexitarians, vegetarians, and vegans: insights from the NuEva study -  ["Conclusions:<br>
+The NuEva study revealed significant impact of dietary patterns on fatty acid profiles, with vegans and vegetarians displaying lower concentrations of SFA and n-3 fatty acids, including EPA and DHA, compared to omnivores and flexitarians. Despite the **clear differences** in fatty acid profiles across the diets, the **inflammatory markers** measured in our healthy collective are **comparable**."](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02517-6)
+
+- Odd-chain fatty acids as a biomarker for dietary fiber intake<br>[Results:<br>Cellulose did not affect plasma OCFA levels, whereas inulin and propionate increased pentadecanoic acid (C15:0) by ∼17% (P < 0.05) and 13% (P = 0.05), respectively. The effect on heptadecanoic acid (C17:0) was even more pronounced, because it was elevated in almost all participants by inulin (11%; P < 0.01) and propionate (13%; P < 0.001). Furthermore, cell culture experiments showed a positive association between propionate and OCFA levels (R2 = 0.99, P < 0.0001), whereas palmitate (16:0) was negatively correlated (R2 = 0.83, P = 0.004).<br>Conclusions:<br>Our data show that gut-derived propionate is used for the hepatic synthesis of OCFAs in humans. The association of OCFAs with a decreased risk of type 2 diabetes may therefore also relate to dietary fiber intake and not only dairy fat.](https://pubmed.ncbi.nlm.nih.gov/28424190/)
+
+:::
+:::
