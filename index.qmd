@@ -102,7 +102,7 @@ format:
 | Cod, Pacific, **cooked** (3 oz)            |          0 |          0 |
 
 
-<sub>sources: [1](https://tools.myfooddata.com/nutrition-facts/173430/wt2) [2](https://tools.myfooddata.com/nutrition-facts/171265/wt1) [3](https://tools.myfooddata.com/nutrition-facts/173414/wt4) [4](https://tools.myfooddata.com/nutrition-facts/171400/wt1) [5](https://loinc.org/48366-9/) [6](https://www.hmdb.ca/metabolites/hmdb02259) [7](https://tools.myfooddata.com/nutrient-ranking-tool/15-0/fish/highest) [8](https://tools.myfooddata.com/nutrient-ranking-tool/17-0/fish/highest) [9](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02517-6)</sub>
+<sub>sources: [1](https://tools.myfooddata.com/nutrition-facts/173430/wt2) [2](https://tools.myfooddata.com/nutrition-facts/171265/wt1) [3](https://tools.myfooddata.com/nutrition-facts/173414/wt4) [4](https://tools.myfooddata.com/nutrition-facts/171400/wt1) [5](https://loinc.org/48366-9/) [6](https://www.hmdb.ca/metabolites/hmdb02259) [7](https://tools.myfooddata.com/nutrient-ranking-tool/15-0/fish/highest) [8](https://tools.myfooddata.com/nutrient-ranking-tool/17-0/fish/highest) [9](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02517-6) [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC6461718/) [11](https://pubmed.ncbi.nlm.nih.gov/16484525/) [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC6272531/) [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC11983864/)</sub>
 
 :::
 :::
@@ -117,7 +117,7 @@ format:
 :::{.fragment}
 
 
-[After analyzing thousands of samples collected over the span of about 50 years, Venn-Watson and her team were able to determine what the healthiest aging dolphins had in common. <br>“We thought it was going to be omega-3′s, because all they eat are fish. And instead, it was C15:0, a saturated fatty acid I had never heard of,” she says.](https://www.cnbc.com/2025/05/24/longevity-nutrient-1-food-this-doctor-always-eats-to-get-enough-of-it.html) - Published May 24, 2025
+[After analyzing thousands of samples collected over the span of about 50 years, Venn-Watson and her team were able to determine what the healthiest aging dolphins had in common. <br>“We thought it was going to be omega-3′s, because all they eat are fish.<br>And instead, it was C15:0, a saturated fatty acid I had never heard of,” she says.](https://www.cnbc.com/2025/05/24/longevity-nutrient-1-food-this-doctor-always-eats-to-get-enough-of-it.html) - Published May 24, 2025
 
 :::
 :::{.fragment}
@@ -418,6 +418,10 @@ No official "GRAS certification" from the FDA. "Certified" implies FDA approval.
 
 Generally recognized as safe (GRAS) is a United States Food and Drug Administration (FDA) designation that a chemical or substance added to food is considered safe by experts under the conditions of its intended use.
 
+- Any substance that is a 'food-additive' and you modify it 
+
+- generally most isolated supplements
+
 - GRAS Notification program: Submit to FDA detailing ingredient. FDA evaluates and issues a "no questions letter" or concerns. 
 
 GRAS determinations focus on general safety for the broader population under intended use—not for specific or sensitive subgroups like pregnant or nursing individuals.
@@ -707,13 +711,18 @@ Study quote: "The aim of this study was to construct a population model to descr
 
 2. This is not true. They never modeled this. This is not in the study.
 
+- they did not report a per-100-mg intake conversion.
+- studies’ goal was to detect fat malabsorption, not dietary intake
+- 20 µM → 5 µM and 0.2% → 0.05% of total fatty acids—were not measured in these studies.
+- that quote is not an accurate representation of and rests on assumptions those papers don’t justify."
+
 And note:
 
 "Participants consumed the MBT 8-ounce test meal… **2.5 or 5.0** g of PA" (PA is C15:0). 2 dose amounts! GRAMS! 
 
 3. 100% bioavailable? What? That is only possible with injection. It is literally ridiculous. 100% bioavailable ON AVERAGE? 
 
-Pure, 100% fabrication
+Pure, 100% false
 Study quote: "The PA bioavailability estimate of 1.07 (95%CI, 0.827, 1.42) for subjects with CF was similar to healthy subjects. The estimate for CF subjects administered enzymes was 0.88 (0.72, 1.09). Although 12.3% lower than in healthy subjects, the 95%CI contains the null value of 1."
 
 IS that where they got 100%? 
@@ -732,7 +741,7 @@ Stallings & Mascarenhas: acute, gram-level malabsorption test PK; they do not ju
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <h3 style="border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 0.5em 0;">
-  The dose-response relationship claimed is not in those papers.<br><br>It’s methodologically indefensible.<br><br>100% bioavailable = 100% fabrication
+  The dose-response relationship claimed is not in those papers.<br><br>It’s methodologically indefensible.<br><br>100% bioavailable = 100% false
   </h3>
 </div>
 
@@ -1388,8 +1397,12 @@ If the significance is due to Threshold vs Subthreshold, that’d be weird, no? 
 
 ![](assets/robinson_table3.png){width=100% fig-align="center"}
 
+
 ---
 
+![](assets/robinson_table3_highlight.png){width=100% fig-align="center"}
+
+---
 
 ### Clinical Trial 3
 
@@ -1783,9 +1796,9 @@ Primary Completion: 2023-04-30
 :::{.incremental}
 
 - Comparative analysis of fatty acid profiles across omnivorous, flexitarians, vegetarians, and vegans: insights from the NuEva study -  ["Conclusions:<br>
-The NuEva study revealed significant impact of dietary patterns on fatty acid profiles, with vegans and vegetarians displaying lower concentrations of SFA and n-3 fatty acids, including EPA and DHA, compared to omnivores and flexitarians. Despite the **clear differences** in fatty acid profiles across the diets, the **inflammatory markers** measured in our healthy collective are **comparable**."](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02517-6)
+The NuEva study revealed significant impact of dietary patterns on fatty acid profiles, with vegans and vegetarians displaying lower concentrations of SFA and n-3 fatty acids, including EPA and DHA, compared to omnivores and flexitarians.<br>Despite the **clear differences** in **fatty acid** profiles across the diets, the **inflammatory markers** measured in our healthy collective are **comparable**."](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-025-02517-6)
 
-- Odd-chain fatty acids as a biomarker for dietary fiber intake<br>[Results:<br>Cellulose did not affect plasma OCFA levels, whereas inulin and propionate increased pentadecanoic acid (C15:0) by ∼17% (P < 0.05) and 13% (P = 0.05), respectively. The effect on heptadecanoic acid (C17:0) was even more pronounced, because it was elevated in almost all participants by inulin (11%; P < 0.01) and propionate (13%; P < 0.001). Furthermore, cell culture experiments showed a positive association between propionate and OCFA levels (R2 = 0.99, P < 0.0001), whereas palmitate (16:0) was negatively correlated (R2 = 0.83, P = 0.004).<br>Conclusions:<br>Our data show that gut-derived propionate is used for the hepatic synthesis of OCFAs in humans. The association of OCFAs with a decreased risk of type 2 diabetes may therefore also relate to dietary fiber intake and not only dairy fat.](https://pubmed.ncbi.nlm.nih.gov/28424190/)
+- Odd-chain fatty acids as a biomarker for dietary fiber intake<br>[**Results**:<br>Cellulose did not affect plasma OCFA levels, whereas inulin and propionate increased pentadecanoic acid (C15:0) by ∼17% (P < 0.05) and 13% (P = 0.05), respectively. The effect on heptadecanoic acid (C17:0) was even more pronounced, because it was elevated in almost all participants by inulin (11%; P < 0.01) and propionate (13%; P < 0.001). Furthermore, cell culture experiments showed a positive association between propionate and OCFA levels (R2 = 0.99, P < 0.0001), whereas palmitate (16:0) was negatively correlated (R2 = 0.83, P = 0.004).<br>**Conclusions**:<br>Our data show that gut-derived propionate is used for the hepatic synthesis of OCFAs in humans. The association of OCFAs with a decreased risk of type 2 diabetes may therefore also relate to dietary fiber intake and not only dairy fat.](https://pubmed.ncbi.nlm.nih.gov/28424190/)
 
 :::
 :::
