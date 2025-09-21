@@ -250,6 +250,12 @@ active **affiliate** + **Health Care Professional (aka Doctor) Affiliate** progr
 </div>
 
 
+---
+
+![](assets/ecological_fallacy.png){width=100% fig-align="center"}
+
+Source: [Venn-Watson TEDx Talk](https://www.youtube.com/watch?v=k1yRoeAeI68&t=4m21s)
+
 
 # Patents
 
