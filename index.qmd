@@ -1388,7 +1388,7 @@ Study Abstract:
 
 ::: {.notes}
 
-"In an exploratory three-group comparison (placebo, sub-threshold, threshold), Kruskal–Wallis tests on change scores were significant for ALT/AST, indicating at least one group differed; we did not perform adjusted pairwise post-hoc tests to determine which groups differed. Additionally, this analysis does not control for baseline levels."
+"In an exploratory three-group comparison (placebo, sub-threshold, threshold), Kruskal–Wallis tests on change scores were significant for ALT/AST, indicating at least one group differed; we did not perform furtherstatistical tests to determine which groups differed. Additionally, this analysis does not control for baseline levels."
 
 
 BASELINE is not taken into account in the KW test. it's on change scores! 
