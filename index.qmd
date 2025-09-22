@@ -1375,8 +1375,8 @@ Study Abstract:
 :::
 :::{.incremental}
 - P-values come from the three-group Kruskal–Wallis (KW) test
-- Three-group KW test only answers: "Are **any** of the three groups different?", **not which** groups differ.
-- *"as compared with participants that did not reach >5 μg/mL"*: reads like a **specific two-group comparison** (≥5 μg/mL **vs** <5 μg/mL). The KW test alone does **not** test that claim.
+- Three-group KW test only answers: ["Are **any** of the three groups different?"](https://www.graphpad.com/guides/prism/latest/statistics/how_the_kruskal-wallis_test_works.htm), [**not which**](https://en.wikipedia.org/wiki/Kruskal–Wallis_test) groups differ.
+- *"as compared with participants that did not reach >5 μg/mL"*: reads like a **specific two-group comparison** (≥5 μg/mL **vs** <5 μg/mL). [The KW test alone does **not** test that claim.](https://www.biostathandbook.com/kruskalwallis.html)
 - You cannot just get a significant KW p-value, **look at medians** and declare "significantly greater decreases/increases in this group." 
 - Would need **follow-up two-group test** for the exact comparison of interest.
 - KW is based on ranks and can reflect differences in spread or tails, not just medians. 
