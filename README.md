@@ -7,7 +7,6 @@ This repo hosts slides for the critique of fatty15. The **Quarto RevealJS** file
 ## Repo structure
 - **`index.qmd`** - the presentation.
 - **`assets/`** — images/figures used in slides (e.g., tables, charts, ad stills).
-  - **`assets/adverts/`** — marketing/CTV ad stills referenced in the talk.
 - **`styles.css`** 
 
 ## Presentation 
