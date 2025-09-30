@@ -29,3 +29,4 @@ This repo hosts slides for the critique of fatty15. The **Quarto RevealJS** file
 - Based on publicly available sources as of **September 18, 2025**.
 - No affiliation with Fatty15 or related entities.
 
+## [YouTube Video](https://youtu.be/2MxLIikmIaE?si=qw0zobCev7aZ-E8O)
