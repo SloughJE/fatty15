@@ -1480,7 +1480,7 @@ At least one group differed for AST, ALT, and Hemoglobin.
 
 :::{.fragment}
 
-[**Seraphina Theraputics** (and fatty15) was co-founded by Stephanie Venn-Watson](https://fatty15.com/pages/stephanie-venn-watson). They make fatty15.
+[**Seraphina Therapeutics** (and fatty15) was co-founded by Stephanie Venn-Watson](https://fatty15.com/pages/stephanie-venn-watson). They make fatty15.
 
 :::
 :::{.fragment}
