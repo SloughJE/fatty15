@@ -1526,7 +1526,7 @@ Clinical Trial 3 (published 2024)
 :::{.fragment}
 
 [2025 Study from J Clin Invest](https://pubmed.ncbi.nlm.nih.gov/40590222/) Conflict of interest:     
-JBS reports grant support to the University of California, San Diego, from **Seraphina Therapeutics** and Thiogenesis Therapeutics.
+"JBS reports grant support to the University of California, San Diego, from **Seraphina Therapeutics** and Thiogenesis Therapeutics."
 :::
 
 :::
