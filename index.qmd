@@ -1476,11 +1476,11 @@ At least one group differed for AST, ALT, and Hemoglobin.
 
 ### Clinical Trial 3: Conflicts of Interest
 
-::: {.smaller_table}
+::: {.smaller_caption}
 
 :::{.fragment}
 
-[**Seraphina Theraputics** was founded by Stephanie Venn-Watson](https://fatty15.com/pages/stephanie-venn-watson). They make fatty15.
+[**Seraphina Theraputics** (and fatty15) was co-founded by Stephanie Venn-Watson](https://fatty15.com/pages/stephanie-venn-watson). They make fatty15.
 
 :::
 :::{.fragment}
@@ -1495,17 +1495,25 @@ Clinical Trial 3 (published 2024)
 **Funding**:
 "The project was also supported by **Seraphina Therapeutics** including the provision of C15:0 supplements and matching placebo."
 
+<br>
+
 :::
 :::{.fragment}
 
-[2021 Study from J Clin Invest](https://pmc.ncbi.nlm.nih.gov/articles/PMC8670836/) Conflict of interest:      
-JBS has received research support from Galmed, Intercept, Genfit, and **Seraphina**.
+[2021 Study from J Clin Invest](https://pmc.ncbi.nlm.nih.gov/articles/PMC8670836/) 
+"Jeffrey Schwimmer’s institution received research grants from Genfit, Intercept, and **Seraphina**."
 
 :::
 :::{.fragment}
 
 [2022 UC San Diego News Article](https://today.ucsd.edu/story/new-genetic-associations-in-pediatric-nafld-affect-both-risk-and-severity):
-"Disclosure: Jeffrey B. Schwimmer receives grant support from Intercept, Genfit and **Seraphina**."
+"J.B.S. reports grants to UCSD from Intercept and **Seraphina** outside the submitted work"
+
+:::
+:::{.fragment}
+
+[2023 Study from J P Gastro Nut](https://pmc.ncbi.nlm.nih.gov/articles/PMC10523882/):
+"Jeffrey B. Schwimmer received grants from Intercept, Genfit, and **Seraphina**."
 
 :::
 :::{.fragment}
@@ -1776,7 +1784,7 @@ Primary Completion: 2023-04-30
   Example claim: [Marketing copy](https://fatty15.com/blogs/news/fatty15-near-term-benefits-and-long-term-gains)
 
 - **Gut microbiome**  
-  **Limited/neutral (human):** In NAFLD (TABGO) trial, *Bifidobacterium adolescentis* increase reported with C15:0, but **no broader microbiome “health” or clinical GI benefits** established.  
+  **Limited/neutral (human):** In NAFLD (TANGO) trial, *Bifidobacterium adolescentis* increase reported with C15:0, but **no broader microbiome “health” or clinical GI benefits** established.  
   Source: [AJCN TANGO RCT](https://pubmed.ncbi.nlm.nih.gov/38035997/)
 
 - **Anti-aging / “slows and reverses aging”**  
